@@ -1,0 +1,2527 @@
+{
+  "brands": [
+    {
+      "id": "energolux",
+      "name": "Energolux",
+      "logo": "images/brands/energolux.png",
+      "models": [
+        {
+          "id": "15567",
+          "article": "SAS07IL-AI",
+          "name": "Energolux Nyon",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 31800,
+          "photos": [
+            "https://severcon.ru/upload/iblock/b6d/i21oyakmh4tda3pev73bcsdhpfno9ch7/Render_Project_Energolux_NYON_DC_Inv_002.png ",
+            "https://severcon.ru/upload/iblock/330/2ivw4ct10p853ijvmdykgksiifcy6sk1/Render_Project_Energolux_NYON_DC_Inv_003.png",
+            " https://severcon.ru/upload/iblock/f64/z2somsrfxp1mppub2a27tf8w58q5n3bg/Render_Project_Energolux_NYON_DC_Inv_004.png",
+            "https://severcon.ru/upload/iblock/1e5/n0tuy30akb9b80bwbnpr55erw0szmuxa/Render_Project_Energolux_NYON_DC_Inv_005.png",
+            "https://severcon.ru/upload/iblock/c11/3tahoxlumnvozbuyrwghfky15erymtim/Render_Project_Energolux_NYON_DC_Inv_006.png",
+            " https://severcon.ru/upload/iblock/1b2/205bnbeizoi1k6092ut5m1kzehmuohjm/Render_Project_Energolux_NYON_DC_Inv_007.png",
+            "https://severcon.ru/upload/iblock/924/z9uvnktvr6xhuc1vlklxrhuui1c6i8h4/Render_Project_Energolux_NYON_DC_Inv_008.png",
+            " https://severcon.ru/upload/iblock/2c2/jcbao4dy2tbq3hpnn5xw1oc4mwdxb8r3/Render_Project_Energolux_NYON_DC_Inv_009.png",
+            "https://severcon.ru/upload/iblock/49d/5km1exe1vns8749548sawloodvuz76wa/Render_Project_Energolux_NYON_DC_Inv_010.png",
+            "https://severcon.ru/upload/iblock/28f/mlebtoa9nt3m6cd81iku5wrd390wslb0/Render_Project_Energolux_NYON_DC_Inv_011.png",
+            "https://severcon.ru/upload/iblock/f8a/gl6rskkh8g4rxb46p8i3yo9tcqdof2dd/Render_Project_PDU_ENERGOLUX_001.png",
+            "https://severcon.ru/upload/iblock/a67/fqzxni125r83p678tn08nopj8lrsk5zs/Render_Project_PDU_ENERGOLUX_002.png",
+            "https://severcon.ru/upload/iblock/2ff/ktoi586u74qwmkfua7qi5b66halsa8ez/Render_Project_PDU_ENERGOLUX_003.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15569",
+          "article": "SAS09IL-AI",
+          "name": "Energolux Nyon",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 35200,
+          "photos": [
+            "https://severcon.ru/upload/iblock/b6d/i21oyakmh4tda3pev73bcsdhpfno9ch7/Render_Project_Energolux_NYON_DC_Inv_002.png ",
+            "https://severcon.ru/upload/iblock/330/2ivw4ct10p853ijvmdykgksiifcy6sk1/Render_Project_Energolux_NYON_DC_Inv_003.png",
+            " https://severcon.ru/upload/iblock/f64/z2somsrfxp1mppub2a27tf8w58q5n3bg/Render_Project_Energolux_NYON_DC_Inv_004.png",
+            "https://severcon.ru/upload/iblock/1e5/n0tuy30akb9b80bwbnpr55erw0szmuxa/Render_Project_Energolux_NYON_DC_Inv_005.png",
+            "https://severcon.ru/upload/iblock/c11/3tahoxlumnvozbuyrwghfky15erymtim/Render_Project_Energolux_NYON_DC_Inv_006.png",
+            " https://severcon.ru/upload/iblock/1b2/205bnbeizoi1k6092ut5m1kzehmuohjm/Render_Project_Energolux_NYON_DC_Inv_007.png",
+            "https://severcon.ru/upload/iblock/924/z9uvnktvr6xhuc1vlklxrhuui1c6i8h4/Render_Project_Energolux_NYON_DC_Inv_008.png",
+            " https://severcon.ru/upload/iblock/2c2/jcbao4dy2tbq3hpnn5xw1oc4mwdxb8r3/Render_Project_Energolux_NYON_DC_Inv_009.png",
+            "https://severcon.ru/upload/iblock/49d/5km1exe1vns8749548sawloodvuz76wa/Render_Project_Energolux_NYON_DC_Inv_010.png",
+            "https://severcon.ru/upload/iblock/28f/mlebtoa9nt3m6cd81iku5wrd390wslb0/Render_Project_Energolux_NYON_DC_Inv_011.png",
+            "https://severcon.ru/upload/iblock/f8a/gl6rskkh8g4rxb46p8i3yo9tcqdof2dd/Render_Project_PDU_ENERGOLUX_001.png",
+            "https://severcon.ru/upload/iblock/a67/fqzxni125r83p678tn08nopj8lrsk5zs/Render_Project_PDU_ENERGOLUX_002.png",
+            "https://severcon.ru/upload/iblock/2ff/ktoi586u74qwmkfua7qi5b66halsa8ez/Render_Project_PDU_ENERGOLUX_003.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15570",
+          "article": "SAS12IL-AI",
+          "name": "Energolux Nyon",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 42300,
+          "photos": [
+            "https://severcon.ru/upload/iblock/b6d/i21oyakmh4tda3pev73bcsdhpfno9ch7/Render_Project_Energolux_NYON_DC_Inv_002.png ",
+            "https://severcon.ru/upload/iblock/330/2ivw4ct10p853ijvmdykgksiifcy6sk1/Render_Project_Energolux_NYON_DC_Inv_003.png",
+            " https://severcon.ru/upload/iblock/f64/z2somsrfxp1mppub2a27tf8w58q5n3bg/Render_Project_Energolux_NYON_DC_Inv_004.png",
+            "https://severcon.ru/upload/iblock/1e5/n0tuy30akb9b80bwbnpr55erw0szmuxa/Render_Project_Energolux_NYON_DC_Inv_005.png",
+            "https://severcon.ru/upload/iblock/c11/3tahoxlumnvozbuyrwghfky15erymtim/Render_Project_Energolux_NYON_DC_Inv_006.png",
+            " https://severcon.ru/upload/iblock/1b2/205bnbeizoi1k6092ut5m1kzehmuohjm/Render_Project_Energolux_NYON_DC_Inv_007.png",
+            "https://severcon.ru/upload/iblock/924/z9uvnktvr6xhuc1vlklxrhuui1c6i8h4/Render_Project_Energolux_NYON_DC_Inv_008.png",
+            " https://severcon.ru/upload/iblock/2c2/jcbao4dy2tbq3hpnn5xw1oc4mwdxb8r3/Render_Project_Energolux_NYON_DC_Inv_009.png",
+            "https://severcon.ru/upload/iblock/49d/5km1exe1vns8749548sawloodvuz76wa/Render_Project_Energolux_NYON_DC_Inv_010.png",
+            "https://severcon.ru/upload/iblock/28f/mlebtoa9nt3m6cd81iku5wrd390wslb0/Render_Project_Energolux_NYON_DC_Inv_011.png",
+            "https://severcon.ru/upload/iblock/f8a/gl6rskkh8g4rxb46p8i3yo9tcqdof2dd/Render_Project_PDU_ENERGOLUX_001.png",
+            "https://severcon.ru/upload/iblock/a67/fqzxni125r83p678tn08nopj8lrsk5zs/Render_Project_PDU_ENERGOLUX_002.png",
+            "https://severcon.ru/upload/iblock/2ff/ktoi586u74qwmkfua7qi5b66halsa8ez/Render_Project_PDU_ENERGOLUX_003.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15571",
+          "article": "SAS12IL-AI",
+          "name": "Energolux Nyon",
+          "category": "Настенная сплит-система",
+          "btu": "18000",
+          "area": "до 50 м²",
+          "our_price": 75800,
+          "photos": [
+            "https://severcon.ru/upload/iblock/b6d/i21oyakmh4tda3pev73bcsdhpfno9ch7/Render_Project_Energolux_NYON_DC_Inv_002.png ",
+            "https://severcon.ru/upload/iblock/330/2ivw4ct10p853ijvmdykgksiifcy6sk1/Render_Project_Energolux_NYON_DC_Inv_003.png",
+            " https://severcon.ru/upload/iblock/f64/z2somsrfxp1mppub2a27tf8w58q5n3bg/Render_Project_Energolux_NYON_DC_Inv_004.png",
+            "https://severcon.ru/upload/iblock/1e5/n0tuy30akb9b80bwbnpr55erw0szmuxa/Render_Project_Energolux_NYON_DC_Inv_005.png",
+            "https://severcon.ru/upload/iblock/c11/3tahoxlumnvozbuyrwghfky15erymtim/Render_Project_Energolux_NYON_DC_Inv_006.png",
+            " https://severcon.ru/upload/iblock/1b2/205bnbeizoi1k6092ut5m1kzehmuohjm/Render_Project_Energolux_NYON_DC_Inv_007.png",
+            "https://severcon.ru/upload/iblock/924/z9uvnktvr6xhuc1vlklxrhuui1c6i8h4/Render_Project_Energolux_NYON_DC_Inv_008.png",
+            " https://severcon.ru/upload/iblock/2c2/jcbao4dy2tbq3hpnn5xw1oc4mwdxb8r3/Render_Project_Energolux_NYON_DC_Inv_009.png",
+            "https://severcon.ru/upload/iblock/49d/5km1exe1vns8749548sawloodvuz76wa/Render_Project_Energolux_NYON_DC_Inv_010.png",
+            "https://severcon.ru/upload/iblock/28f/mlebtoa9nt3m6cd81iku5wrd390wslb0/Render_Project_Energolux_NYON_DC_Inv_011.png",
+            "https://severcon.ru/upload/iblock/f8a/gl6rskkh8g4rxb46p8i3yo9tcqdof2dd/Render_Project_PDU_ENERGOLUX_001.png",
+            "https://severcon.ru/upload/iblock/a67/fqzxni125r83p678tn08nopj8lrsk5zs/Render_Project_PDU_ENERGOLUX_002.png",
+            "https://severcon.ru/upload/iblock/2ff/ktoi586u74qwmkfua7qi5b66halsa8ez/Render_Project_PDU_ENERGOLUX_003.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15594",
+          "article": "ESAS07GL1-HDC",
+          "name": "Energolux Glarus",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 33500,
+          "photos": [
+            "https://severcon.ru/upload/iblock/418/t6770mrij7awhah0i2qdngli268soc8x/Render_Project_Energolux_Glarus_DC_Inv_002.png ",
+            " https://severcon.ru/upload/iblock/a68/rzmu0v89x6e82umqb5e3hqa2g31vdtki/Render_Project_Energolux_Glarus_DC_Inv_003.png",
+            " https://severcon.ru/upload/iblock/112/22qmrfyqpvqoz7x5h79kjdeq6zrdvh6c/Render_Project_Energolux_Glarus_DC_Inv_004.png",
+            "https://severcon.ru/upload/iblock/052/94ftwmem8a177ixzmukk3zktdm2rfq8k/Render_Project_Energolux_Glarus_DC_Inv_005.png",
+            "https://severcon.ru/upload/iblock/8a9/ndsyi0ecw6n7bpvemhw0vzx97ihrpyr9/Render_Project_Energolux_Glarus_DC_Inv_006.png",
+            "https://severcon.ru/upload/iblock/be5/mt2njcj8kul3tlvuzy142bafxooeqqqm/Render_Project_Energolux_Glarus_DC_Inv_007.png",
+            "https://severcon.ru/upload/iblock/235/iubqfwa5fq7nvcq1gdijkwgwr329mopw/Render_Project_Energolux_Glarus_DC_Inv_008.png",
+            "https://severcon.ru/upload/iblock/af1/rxvm0amhhyplgpylyl97wmiycfr7pubf/Render_Project_Energolux_Glarus_DC_Inv_009.png",
+            "https://severcon.ru/upload/iblock/0aa/hvlfzlvllufy32dt3uzgsx90tey7oalq/Render_Project_Energolux_Glarus_DC_Inv_010.png",
+            "https://severcon.ru/upload/iblock/753/fx8xi2bswnyzm9ez3f2w5g0t2wfdb7a9/Render_Project_Energolux_Glarus_DC_Inv_011.png",
+            "https://severcon.ru/upload/iblock/683/wejnwim6g9zn6cyovvnvw8nddxhx2d37/Render_Project_Energolux_Glarus_PDU_001.png",
+            "https://severcon.ru/upload/iblock/c9a/4nnntk6oq680ktekd5sj30di9k5tapu0/Render_Project_Energolux_Glarus_PDU_002.png",
+            "https://severcon.ru/upload/iblock/7dd/mptx42cs56ox5efw2axojakyjts5ne6m/Render_Project_Energolux_Glarus_PDU_003.png",
+            "https://severcon.ru/upload/iblock/9e4/zed301l1z76y44v0myjt22utb2nytlgh/Render_Project_Energolux_Glarus_PDU_004.png",
+            "https://severcon.ru/upload/iblock/6f9/8rkp6n7vbosvpwvl5sonoypq8frx4hf4/7-9-12K-outdoor-_1_.png",
+            "https://severcon.ru/upload/iblock/7d4/bob1486gdemzk4glbogsj15zc035lhvl/7-9-12K-outdoor-_2_.png",
+            "https://severcon.ru/upload/iblock/a71/zbc72y5caukts0i0w3isah75s9ppket0/7-9-12K-outdoor-_3_.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15595",
+          "article": "ESAS09GL1-HDC",
+          "name": "Energolux Glarus",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 37500,
+          "photos": [
+            "https://severcon.ru/upload/iblock/418/t6770mrij7awhah0i2qdngli268soc8x/Render_Project_Energolux_Glarus_DC_Inv_002.png ",
+            " https://severcon.ru/upload/iblock/a68/rzmu0v89x6e82umqb5e3hqa2g31vdtki/Render_Project_Energolux_Glarus_DC_Inv_003.png",
+            " https://severcon.ru/upload/iblock/112/22qmrfyqpvqoz7x5h79kjdeq6zrdvh6c/Render_Project_Energolux_Glarus_DC_Inv_004.png",
+            "https://severcon.ru/upload/iblock/052/94ftwmem8a177ixzmukk3zktdm2rfq8k/Render_Project_Energolux_Glarus_DC_Inv_005.png",
+            "https://severcon.ru/upload/iblock/8a9/ndsyi0ecw6n7bpvemhw0vzx97ihrpyr9/Render_Project_Energolux_Glarus_DC_Inv_006.png",
+            "https://severcon.ru/upload/iblock/be5/mt2njcj8kul3tlvuzy142bafxooeqqqm/Render_Project_Energolux_Glarus_DC_Inv_007.png",
+            "https://severcon.ru/upload/iblock/235/iubqfwa5fq7nvcq1gdijkwgwr329mopw/Render_Project_Energolux_Glarus_DC_Inv_008.png",
+            "https://severcon.ru/upload/iblock/af1/rxvm0amhhyplgpylyl97wmiycfr7pubf/Render_Project_Energolux_Glarus_DC_Inv_009.png",
+            "https://severcon.ru/upload/iblock/0aa/hvlfzlvllufy32dt3uzgsx90tey7oalq/Render_Project_Energolux_Glarus_DC_Inv_010.png",
+            "https://severcon.ru/upload/iblock/753/fx8xi2bswnyzm9ez3f2w5g0t2wfdb7a9/Render_Project_Energolux_Glarus_DC_Inv_011.png",
+            "https://severcon.ru/upload/iblock/683/wejnwim6g9zn6cyovvnvw8nddxhx2d37/Render_Project_Energolux_Glarus_PDU_001.png",
+            "https://severcon.ru/upload/iblock/c9a/4nnntk6oq680ktekd5sj30di9k5tapu0/Render_Project_Energolux_Glarus_PDU_002.png",
+            "https://severcon.ru/upload/iblock/7dd/mptx42cs56ox5efw2axojakyjts5ne6m/Render_Project_Energolux_Glarus_PDU_003.png",
+            "https://severcon.ru/upload/iblock/9e4/zed301l1z76y44v0myjt22utb2nytlgh/Render_Project_Energolux_Glarus_PDU_004.png",
+            "https://severcon.ru/upload/iblock/6f9/8rkp6n7vbosvpwvl5sonoypq8frx4hf4/7-9-12K-outdoor-_1_.png",
+            "https://severcon.ru/upload/iblock/7d4/bob1486gdemzk4glbogsj15zc035lhvl/7-9-12K-outdoor-_2_.png",
+            "https://severcon.ru/upload/iblock/a71/zbc72y5caukts0i0w3isah75s9ppket0/7-9-12K-outdoor-_3_.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15596",
+          "article": "ESAS12GL1-HDC",
+          "name": "Energolux Glarus",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 35 м²",
+          "our_price": 44900,
+          "photos": [
+            "https://severcon.ru/upload/iblock/418/t6770mrij7awhah0i2qdngli268soc8x/Render_Project_Energolux_Glarus_DC_Inv_002.png ",
+            "https://severcon.ru/upload/iblock/a68/rzmu0v89x6e82umqb5e3hqa2g31vdtki/Render_Project_Energolux_Glarus_DC_Inv_003.png",
+            "https://severcon.ru/upload/iblock/112/22qmrfyqpvqoz7x5h79kjdeq6zrdvh6c/Render_Project_Energolux_Glarus_DC_Inv_004.png",
+            "https://severcon.ru/upload/iblock/052/94ftwmem8a177ixzmukk3zktdm2rfq8k/Render_Project_Energolux_Glarus_DC_Inv_005.png",
+            "https://severcon.ru/upload/iblock/8a9/ndsyi0ecw6n7bpvemhw0vzx97ihrpyr9/Render_Project_Energolux_Glarus_DC_Inv_006.png",
+            "https://severcon.ru/upload/iblock/be5/mt2njcj8kul3tlvuzy142bafxooeqqqm/Render_Project_Energolux_Glarus_DC_Inv_007.png",
+            "https://severcon.ru/upload/iblock/235/iubqfwa5fq7nvcq1gdijkwgwr329mopw/Render_Project_Energolux_Glarus_DC_Inv_008.png",
+            "https://severcon.ru/upload/iblock/af1/rxvm0amhhyplgpylyl97wmiycfr7pubf/Render_Project_Energolux_Glarus_DC_Inv_009.png",
+            "https://severcon.ru/upload/iblock/0aa/hvlfzlvllufy32dt3uzgsx90tey7oalq/Render_Project_Energolux_Glarus_DC_Inv_010.png",
+            "https://severcon.ru/upload/iblock/753/fx8xi2bswnyzm9ez3f2w5g0t2wfdb7a9/Render_Project_Energolux_Glarus_DC_Inv_011.png",
+            "https://severcon.ru/upload/iblock/683/wejnwim6g9zn6cyovvnvw8nddxhx2d37/Render_Project_Energolux_Glarus_PDU_001.png",
+            "https://severcon.ru/upload/iblock/c9a/4nnntk6oq680ktekd5sj30di9k5tapu0/Render_Project_Energolux_Glarus_PDU_002.png",
+            "https://severcon.ru/upload/iblock/7dd/mptx42cs56ox5efw2axojakyjts5ne6m/Render_Project_Energolux_Glarus_PDU_003.png",
+            "https://severcon.ru/upload/iblock/9e4/zed301l1z76y44v0myjt22utb2nytlgh/Render_Project_Energolux_Glarus_PDU_004.png",
+            "https://severcon.ru/upload/iblock/6f9/8rkp6n7vbosvpwvl5sonoypq8frx4hf4/7-9-12K-outdoor-_1_.png",
+            "https://severcon.ru/upload/iblock/7d4/bob1486gdemzk4glbogsj15zc035lhvl/7-9-12K-outdoor-_2_.png",
+            "https://severcon.ru/upload/iblock/a71/zbc72y5caukts0i0w3isah75s9ppket0/7-9-12K-outdoor-_3_.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15597",
+          "article": "ESAS18GL1-HDC",
+          "name": "Energolux Glarus",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 50 м²",
+          "our_price": 77700,
+          "photos": [
+            "https://severcon.ru/upload/iblock/418/t6770mrij7awhah0i2qdngli268soc8x/Render_Project_Energolux_Glarus_DC_Inv_002.png ",
+            "https://severcon.ru/upload/iblock/a68/rzmu0v89x6e82umqb5e3hqa2g31vdtki/Render_Project_Energolux_Glarus_DC_Inv_003.png",
+            "https://severcon.ru/upload/iblock/112/22qmrfyqpvqoz7x5h79kjdeq6zrdvh6c/Render_Project_Energolux_Glarus_DC_Inv_004.png",
+            "https://severcon.ru/upload/iblock/052/94ftwmem8a177ixzmukk3zktdm2rfq8k/Render_Project_Energolux_Glarus_DC_Inv_005.png",
+            "https://severcon.ru/upload/iblock/8a9/ndsyi0ecw6n7bpvemhw0vzx97ihrpyr9/Render_Project_Energolux_Glarus_DC_Inv_006.png",
+            "https://severcon.ru/upload/iblock/be5/mt2njcj8kul3tlvuzy142bafxooeqqqm/Render_Project_Energolux_Glarus_DC_Inv_007.png",
+            "https://severcon.ru/upload/iblock/235/iubqfwa5fq7nvcq1gdijkwgwr329mopw/Render_Project_Energolux_Glarus_DC_Inv_008.png",
+            "https://severcon.ru/upload/iblock/af1/rxvm0amhhyplgpylyl97wmiycfr7pubf/Render_Project_Energolux_Glarus_DC_Inv_009.png",
+            "https://severcon.ru/upload/iblock/0aa/hvlfzlvllufy32dt3uzgsx90tey7oalq/Render_Project_Energolux_Glarus_DC_Inv_010.png",
+            "https://severcon.ru/upload/iblock/753/fx8xi2bswnyzm9ez3f2w5g0t2wfdb7a9/Render_Project_Energolux_Glarus_DC_Inv_011.png",
+            "https://severcon.ru/upload/iblock/683/wejnwim6g9zn6cyovvnvw8nddxhx2d37/Render_Project_Energolux_Glarus_PDU_001.png",
+            "https://severcon.ru/upload/iblock/c9a/4nnntk6oq680ktekd5sj30di9k5tapu0/Render_Project_Energolux_Glarus_PDU_002.png",
+            "https://severcon.ru/upload/iblock/7dd/mptx42cs56ox5efw2axojakyjts5ne6m/Render_Project_Energolux_Glarus_PDU_003.png",
+            "https://severcon.ru/upload/iblock/9e4/zed301l1z76y44v0myjt22utb2nytlgh/Render_Project_Energolux_Glarus_PDU_004.png",
+            "https://severcon.ru/upload/iblock/6f9/8rkp6n7vbosvpwvl5sonoypq8frx4hf4/7-9-12K-outdoor-_1_.png",
+            "https://severcon.ru/upload/iblock/7d4/bob1486gdemzk4glbogsj15zc035lhvl/7-9-12K-outdoor-_2_.png",
+            "https://severcon.ru/upload/iblock/a71/zbc72y5caukts0i0w3isah75s9ppket0/7-9-12K-outdoor-_3_.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15622",
+          "article": "ESAS09CHP-GDC",
+          "name": "Energolux CHAMPERY PRO HP",
+          "category": "Тепловой насос",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 66200,
+          "photos": [
+            "https://severcon.ru/upload/iblock/186/231ysy2prdhsc50u9s9lrdbawlna6ue8/Render_Project_Energolux_Champery_Pro_DC_Inv_002.png",
+            "https://severcon.ru/upload/iblock/f7e/nuiaorsnqqyssndscp8kkbx581yimklf/Render_Project_Energolux_Champery_Pro_DC_Inv_003.png",
+            "https://severcon.ru/upload/iblock/465/240c22vq476v7onpfputxvzvql4m8bkl/Render_Project_Energolux_Champery_Pro_DC_Inv_004.png",
+            "https://severcon.ru/upload/iblock/ba3/2dzv8hflyo0oovjeg4910x4xpzisggsd/Render_Project_Energolux_Champery_Pro_DC_Inv_005.png",
+            "https://severcon.ru/upload/iblock/1db/sslbjdenyvx71n0tg05cauyy1g20dmf0/Render_Project_Energolux_Champery_Pro_DC_Inv_006.png",
+            "https://severcon.ru/upload/iblock/6b6/h7dp6mc8yj60gifxdxvlufsiwqrbtzeq/Render_Project_Energolux_Champery_Pro_DC_Inv_007.png",
+            "https://severcon.ru/upload/iblock/0ec/f6ggpjgd7yelsnd1tqt5ox6zchr03mcr/Render_Project_Energolux_Champery_Pro_DC_Inv_008.png",
+            "https://severcon.ru/upload/iblock/5e5/y6954i5952zrzdvxitr81znrf24q648n/Render_Project_Energolux_Champery_Pro_DC_Inv_010.png",
+            "https://severcon.ru/upload/iblock/3b6/todffos68re00tayq28j1shhzi9x6947/Render_Project_Energolux_Champery_Pro_DC_Inv_011.png",
+            "https://severcon.ru/upload/iblock/bf1/6niyaa7q8rp523y6ohq64vtc6wwsbxhu/24-gradusa-Render_Project_Energolux_PDU_Champery_002.png",
+            "https://severcon.ru/upload/iblock/7e0/umu8hxsnk38wkb4dkynr5qqpyosg79ni/Render_Project_Energolux_PDU_Champery_001.png",
+            "https://severcon.ru/upload/iblock/6d7/m0it7d7j49s1ojly95y8emgtm7l0tunm/Render_Project_Energolux_PDU_Champery_002.png",
+            "https://severcon.ru/upload/iblock/07b/z4mq7nhv7sjtagetl53ys4wnudxi7v0y/Render_Project_Energolux_PDU_Champery_003.png",
+            "https://severcon.ru/upload/iblock/401/p71ikts1psp8kjk3z3d4f8b603hptd6p/Render_Project_Energolux_PDU_Champery_004.png",
+            "https://severcon.ru/upload/iblock/765/xbxp39v2842t0gnwry1th3ayiwvvvk04/CHAMPERY_PRO_SAU_EW1_A.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15623",
+          "article": "ESAS12CHP-GDC",
+          "name": "Energolux CHAMPERY PRO HP",
+          "category": "Тепловой насос",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 72900,
+          "photos": [
+            "https://severcon.ru/upload/iblock/186/231ysy2prdhsc50u9s9lrdbawlna6ue8/Render_Project_Energolux_Champery_Pro_DC_Inv_002.png",
+            "https://severcon.ru/upload/iblock/f7e/nuiaorsnqqyssndscp8kkbx581yimklf/Render_Project_Energolux_Champery_Pro_DC_Inv_003.png",
+            "https://severcon.ru/upload/iblock/465/240c22vq476v7onpfputxvzvql4m8bkl/Render_Project_Energolux_Champery_Pro_DC_Inv_004.png",
+            "https://severcon.ru/upload/iblock/ba3/2dzv8hflyo0oovjeg4910x4xpzisggsd/Render_Project_Energolux_Champery_Pro_DC_Inv_005.png",
+            "https://severcon.ru/upload/iblock/1db/sslbjdenyvx71n0tg05cauyy1g20dmf0/Render_Project_Energolux_Champery_Pro_DC_Inv_006.png",
+            "https://severcon.ru/upload/iblock/6b6/h7dp6mc8yj60gifxdxvlufsiwqrbtzeq/Render_Project_Energolux_Champery_Pro_DC_Inv_007.png",
+            "https://severcon.ru/upload/iblock/0ec/f6ggpjgd7yelsnd1tqt5ox6zchr03mcr/Render_Project_Energolux_Champery_Pro_DC_Inv_008.png",
+            "https://severcon.ru/upload/iblock/5e5/y6954i5952zrzdvxitr81znrf24q648n/Render_Project_Energolux_Champery_Pro_DC_Inv_010.png",
+            "https://severcon.ru/upload/iblock/3b6/todffos68re00tayq28j1shhzi9x6947/Render_Project_Energolux_Champery_Pro_DC_Inv_011.png",
+            "https://severcon.ru/upload/iblock/bf1/6niyaa7q8rp523y6ohq64vtc6wwsbxhu/24-gradusa-Render_Project_Energolux_PDU_Champery_002.png",
+            "https://severcon.ru/upload/iblock/7e0/umu8hxsnk38wkb4dkynr5qqpyosg79ni/Render_Project_Energolux_PDU_Champery_001.png",
+            "https://severcon.ru/upload/iblock/6d7/m0it7d7j49s1ojly95y8emgtm7l0tunm/Render_Project_Energolux_PDU_Champery_002.png",
+            "https://severcon.ru/upload/iblock/07b/z4mq7nhv7sjtagetl53ys4wnudxi7v0y/Render_Project_Energolux_PDU_Champery_003.png",
+            "https://severcon.ru/upload/iblock/401/p71ikts1psp8kjk3z3d4f8b603hptd6p/Render_Project_Energolux_PDU_Champery_004.png",
+            "https://severcon.ru/upload/iblock/765/xbxp39v2842t0gnwry1th3ayiwvvvk04/CHAMPERY_PRO_SAU_EW1_A.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15624",
+          "article": "ESAS18CHP-GDC",
+          "name": "Energolux CHAMPERY PRO HP",
+          "category": "Тепловой насос",
+          "btu": "18000",
+          "area": "до 50 м²",
+          "our_price": 66200,
+          "photos": [
+            "https://severcon.ru/upload/iblock/186/231ysy2prdhsc50u9s9lrdbawlna6ue8/Render_Project_Energolux_Champery_Pro_DC_Inv_002.png",
+            "https://severcon.ru/upload/iblock/f7e/nuiaorsnqqyssndscp8kkbx581yimklf/Render_Project_Energolux_Champery_Pro_DC_Inv_003.png",
+            "https://severcon.ru/upload/iblock/465/240c22vq476v7onpfputxvzvql4m8bkl/Render_Project_Energolux_Champery_Pro_DC_Inv_004.png",
+            "https://severcon.ru/upload/iblock/ba3/2dzv8hflyo0oovjeg4910x4xpzisggsd/Render_Project_Energolux_Champery_Pro_DC_Inv_005.png",
+            "https://severcon.ru/upload/iblock/1db/sslbjdenyvx71n0tg05cauyy1g20dmf0/Render_Project_Energolux_Champery_Pro_DC_Inv_006.png",
+            "https://severcon.ru/upload/iblock/6b6/h7dp6mc8yj60gifxdxvlufsiwqrbtzeq/Render_Project_Energolux_Champery_Pro_DC_Inv_007.png",
+            "https://severcon.ru/upload/iblock/0ec/f6ggpjgd7yelsnd1tqt5ox6zchr03mcr/Render_Project_Energolux_Champery_Pro_DC_Inv_008.png",
+            "https://severcon.ru/upload/iblock/5e5/y6954i5952zrzdvxitr81znrf24q648n/Render_Project_Energolux_Champery_Pro_DC_Inv_010.png",
+            "https://severcon.ru/upload/iblock/3b6/todffos68re00tayq28j1shhzi9x6947/Render_Project_Energolux_Champery_Pro_DC_Inv_011.png",
+            "https://severcon.ru/upload/iblock/bf1/6niyaa7q8rp523y6ohq64vtc6wwsbxhu/24-gradusa-Render_Project_Energolux_PDU_Champery_002.png",
+            "https://severcon.ru/upload/iblock/7e0/umu8hxsnk38wkb4dkynr5qqpyosg79ni/Render_Project_Energolux_PDU_Champery_001.png",
+            "https://severcon.ru/upload/iblock/6d7/m0it7d7j49s1ojly95y8emgtm7l0tunm/Render_Project_Energolux_PDU_Champery_002.png",
+            "https://severcon.ru/upload/iblock/07b/z4mq7nhv7sjtagetl53ys4wnudxi7v0y/Render_Project_Energolux_PDU_Champery_003.png",
+            "https://severcon.ru/upload/iblock/401/p71ikts1psp8kjk3z3d4f8b603hptd6p/Render_Project_Energolux_PDU_Champery_004.png",
+            "https://severcon.ru/upload/iblock/765/xbxp39v2842t0gnwry1th3ayiwvvvk04/CHAMPERY_PRO_SAU_EW1_A.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15628",
+          "article": "SAS07FB1-AI",
+          "name": "Energolux BADEN DC",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 51900,
+          "photos": [
+            "https://severcon.ru/upload/iblock/349/p8w6rilearc55aeh1v47qbbnj8jztrfs/1.png",
+            "https://severcon.ru/upload/iblock/531/7xilq7v9sje93qfzubwm33h5rscq6lqm/1o.png",
+            "https://severcon.ru/upload/iblock/708/n9zcorcj5t5nnk3iykfnpq6rv6otopyj/2.1.png",
+            "https://severcon.ru/upload/iblock/6b1/cuuktvf0wymhvrmtajymrv8552mhnm59/2.2.png",
+            "https://severcon.ru/upload/iblock/d83/yg0cted42c9fyy3qjfbn3128x1o06g64/3.1.png",
+            "https://severcon.ru/upload/iblock/436/ya1uk79woperpkwgihmifm3yfw3s9nfp/3.1o.png",
+            "https://severcon.ru/upload/iblock/1b2/kr2grt048zp4j5bo5ex1qem2q67h59p1/3.png",
+            "https://severcon.ru/upload/iblock/d27/65cqh4rt29mhl6tdkks53vp3qnmisyun/3o.png",
+            "https://severcon.ru/upload/iblock/1f8/voja1rv4n4tr5qzkg0z7v86p10dr80y4/4.png",
+            "https://severcon.ru/upload/iblock/360/2a26h07pjpxiy90tlwjpihgl3eldmaj5/Render_Project_Energolux_PDU_Champery_001.png",
+            "https://severcon.ru/upload/iblock/f59/5gd26euuavf32kz2osd999bfd7q5y3ak/Render_Project_Energolux_PDU_Champery_002.png",
+            "https://severcon.ru/upload/iblock/b99/d1bk8vzgfatwzc8ow0e4flnamfz0pdnu/Render_Project_Energolux_PDU_Champery_003.png",
+            "https://severcon.ru/upload/iblock/36f/5j5ogi02e3l9ho7smdhkur1jvonovin0/Render_Project_Energolux_PDU_Champery_004.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15629",
+          "article": "SAS09FB1-AI",
+          "name": "Energolux BADEN DC",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 53100,
+          "photos": [
+            "https://severcon.ru/upload/iblock/349/p8w6rilearc55aeh1v47qbbnj8jztrfs/1.png",
+            "https://severcon.ru/upload/iblock/531/7xilq7v9sje93qfzubwm33h5rscq6lqm/1o.png",
+            "https://severcon.ru/upload/iblock/708/n9zcorcj5t5nnk3iykfnpq6rv6otopyj/2.1.png",
+            "https://severcon.ru/upload/iblock/6b1/cuuktvf0wymhvrmtajymrv8552mhnm59/2.2.png",
+            "https://severcon.ru/upload/iblock/d83/yg0cted42c9fyy3qjfbn3128x1o06g64/3.1.png",
+            "https://severcon.ru/upload/iblock/436/ya1uk79woperpkwgihmifm3yfw3s9nfp/3.1o.png",
+            "https://severcon.ru/upload/iblock/1b2/kr2grt048zp4j5bo5ex1qem2q67h59p1/3.png",
+            "https://severcon.ru/upload/iblock/d27/65cqh4rt29mhl6tdkks53vp3qnmisyun/3o.png",
+            "https://severcon.ru/upload/iblock/1f8/voja1rv4n4tr5qzkg0z7v86p10dr80y4/4.png",
+            "https://severcon.ru/upload/iblock/360/2a26h07pjpxiy90tlwjpihgl3eldmaj5/Render_Project_Energolux_PDU_Champery_001.png",
+            "https://severcon.ru/upload/iblock/f59/5gd26euuavf32kz2osd999bfd7q5y3ak/Render_Project_Energolux_PDU_Champery_002.png",
+            "https://severcon.ru/upload/iblock/b99/d1bk8vzgfatwzc8ow0e4flnamfz0pdnu/Render_Project_Energolux_PDU_Champery_003.png",
+            "https://severcon.ru/upload/iblock/36f/5j5ogi02e3l9ho7smdhkur1jvonovin0/Render_Project_Energolux_PDU_Champery_004.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15630",
+          "article": "SAS12FB1-AI",
+          "name": "Energolux BADEN DC",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 60700,
+          "photos": [
+            "https://severcon.ru/upload/iblock/349/p8w6rilearc55aeh1v47qbbnj8jztrfs/1.png",
+            "https://severcon.ru/upload/iblock/531/7xilq7v9sje93qfzubwm33h5rscq6lqm/1o.png",
+            "https://severcon.ru/upload/iblock/708/n9zcorcj5t5nnk3iykfnpq6rv6otopyj/2.1.png",
+            "https://severcon.ru/upload/iblock/6b1/cuuktvf0wymhvrmtajymrv8552mhnm59/2.2.png",
+            "https://severcon.ru/upload/iblock/d83/yg0cted42c9fyy3qjfbn3128x1o06g64/3.1.png",
+            "https://severcon.ru/upload/iblock/436/ya1uk79woperpkwgihmifm3yfw3s9nfp/3.1o.png",
+            "https://severcon.ru/upload/iblock/1b2/kr2grt048zp4j5bo5ex1qem2q67h59p1/3.png",
+            "https://severcon.ru/upload/iblock/d27/65cqh4rt29mhl6tdkks53vp3qnmisyun/3o.png",
+            "https://severcon.ru/upload/iblock/1f8/voja1rv4n4tr5qzkg0z7v86p10dr80y4/4.png",
+            "https://severcon.ru/upload/iblock/360/2a26h07pjpxiy90tlwjpihgl3eldmaj5/Render_Project_Energolux_PDU_Champery_001.png",
+            "https://severcon.ru/upload/iblock/f59/5gd26euuavf32kz2osd999bfd7q5y3ak/Render_Project_Energolux_PDU_Champery_002.png",
+            "https://severcon.ru/upload/iblock/b99/d1bk8vzgfatwzc8ow0e4flnamfz0pdnu/Render_Project_Energolux_PDU_Champery_003.png",
+            "https://severcon.ru/upload/iblock/36f/5j5ogi02e3l9ho7smdhkur1jvonovin0/Render_Project_Energolux_PDU_Champery_004.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15631",
+          "article": "SAS18FB1-AI",
+          "name": "Energolux BADEN DC",
+          "category": "Настенная сплит-система",
+          "btu": "18000",
+          "area": "до 50 м²",
+          "our_price": 99600,
+          "photos": [
+            "https://severcon.ru/upload/iblock/349/p8w6rilearc55aeh1v47qbbnj8jztrfs/1.png",
+            "https://severcon.ru/upload/iblock/531/7xilq7v9sje93qfzubwm33h5rscq6lqm/1o.png",
+            "https://severcon.ru/upload/iblock/708/n9zcorcj5t5nnk3iykfnpq6rv6otopyj/2.1.png",
+            "https://severcon.ru/upload/iblock/6b1/cuuktvf0wymhvrmtajymrv8552mhnm59/2.2.png",
+            "https://severcon.ru/upload/iblock/d83/yg0cted42c9fyy3qjfbn3128x1o06g64/3.1.png",
+            "https://severcon.ru/upload/iblock/436/ya1uk79woperpkwgihmifm3yfw3s9nfp/3.1o.png",
+            "https://severcon.ru/upload/iblock/1b2/kr2grt048zp4j5bo5ex1qem2q67h59p1/3.png",
+            "https://severcon.ru/upload/iblock/d27/65cqh4rt29mhl6tdkks53vp3qnmisyun/3o.png",
+            "https://severcon.ru/upload/iblock/1f8/voja1rv4n4tr5qzkg0z7v86p10dr80y4/4.png",
+            "https://severcon.ru/upload/iblock/360/2a26h07pjpxiy90tlwjpihgl3eldmaj5/Render_Project_Energolux_PDU_Champery_001.png",
+            "https://severcon.ru/upload/iblock/f59/5gd26euuavf32kz2osd999bfd7q5y3ak/Render_Project_Energolux_PDU_Champery_002.png",
+            "https://severcon.ru/upload/iblock/b99/d1bk8vzgfatwzc8ow0e4flnamfz0pdnu/Render_Project_Energolux_PDU_Champery_003.png",
+            "https://severcon.ru/upload/iblock/36f/5j5ogi02e3l9ho7smdhkur1jvonovin0/Render_Project_Energolux_PDU_Champery_004.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15633",
+          "article": "SAS07BD2-A",
+          "name": "Energolux BADEN",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 31300,
+          "photos": [
+            "https://severcon.ru/upload/iblock/767/b7oqyywrw2139l8l2y16l6n6rcloh6uj/1.png",
+            "https://severcon.ru/upload/iblock/1de/o5ivfn102o1wgexrbvhb14wk1z94p3k8/1o.png",
+            "https://severcon.ru/upload/iblock/982/1lpvh3w7ghwoinsy1gbt1n7475mk88x4/3.1.png",
+            "https://severcon.ru/upload/iblock/caf/je173mxy7raouuxndau6ettesmftex5z/3.1o.png",
+            "https://severcon.ru/upload/iblock/b82/hjhz9cirku6aeqq0ojf3u1n6fj6841z0/3.png",
+            "https://severcon.ru/upload/iblock/464/s269i034xnvy5ijyesn8qlrwv2qs9taw/3o.png",
+            "https://severcon.ru/upload/iblock/402/dggpiofmk074lekjng121whd6uawxfl5/4.png",
+            "https://severcon.ru/upload/iblock/3d1/y5q49jtjwr64ga56b0epxpytb5ztknfw/Render_Project_Energolux_Baden_PDU_001.png",
+            "https://severcon.ru/upload/iblock/867/uks8yj0pkx72er1wggr4lymr0dk0ty72/Render_Project_Energolux_Baden_PDU_002.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15634",
+          "article": "SAS09BD2-A",
+          "name": "Energolux BADEN",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 35000,
+          "photos": [
+            "https://severcon.ru/upload/iblock/767/b7oqyywrw2139l8l2y16l6n6rcloh6uj/1.png",
+            "https://severcon.ru/upload/iblock/1de/o5ivfn102o1wgexrbvhb14wk1z94p3k8/1o.png",
+            "https://severcon.ru/upload/iblock/982/1lpvh3w7ghwoinsy1gbt1n7475mk88x4/3.1.png",
+            "https://severcon.ru/upload/iblock/caf/je173mxy7raouuxndau6ettesmftex5z/3.1o.png",
+            "https://severcon.ru/upload/iblock/b82/hjhz9cirku6aeqq0ojf3u1n6fj6841z0/3.png",
+            "https://severcon.ru/upload/iblock/464/s269i034xnvy5ijyesn8qlrwv2qs9taw/3o.png",
+            "https://severcon.ru/upload/iblock/402/dggpiofmk074lekjng121whd6uawxfl5/4.png",
+            "https://severcon.ru/upload/iblock/3d1/y5q49jtjwr64ga56b0epxpytb5ztknfw/Render_Project_Energolux_Baden_PDU_001.png",
+            "https://severcon.ru/upload/iblock/867/uks8yj0pkx72er1wggr4lymr0dk0ty72/Render_Project_Energolux_Baden_PDU_002.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15634",
+          "article": "SAS12BD2-A",
+          "name": "Energolux BADEN",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 45400,
+          "photos": [
+            "https://severcon.ru/upload/iblock/767/b7oqyywrw2139l8l2y16l6n6rcloh6uj/1.png",
+            "https://severcon.ru/upload/iblock/1de/o5ivfn102o1wgexrbvhb14wk1z94p3k8/1o.png",
+            "https://severcon.ru/upload/iblock/982/1lpvh3w7ghwoinsy1gbt1n7475mk88x4/3.1.png",
+            "https://severcon.ru/upload/iblock/caf/je173mxy7raouuxndau6ettesmftex5z/3.1o.png",
+            "https://severcon.ru/upload/iblock/b82/hjhz9cirku6aeqq0ojf3u1n6fj6841z0/3.png",
+            "https://severcon.ru/upload/iblock/464/s269i034xnvy5ijyesn8qlrwv2qs9taw/3o.png",
+            "https://severcon.ru/upload/iblock/402/dggpiofmk074lekjng121whd6uawxfl5/4.png",
+            "https://severcon.ru/upload/iblock/3d1/y5q49jtjwr64ga56b0epxpytb5ztknfw/Render_Project_Energolux_Baden_PDU_001.png",
+            "https://severcon.ru/upload/iblock/867/uks8yj0pkx72er1wggr4lymr0dk0ty72/Render_Project_Energolux_Baden_PDU_002.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "13047",
+          "article": "SAS07R1-AI",
+          "name": "Energolux DAVOS PRO",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 34900,
+          "photos": [
+            "https://severcon.ru/upload/iblock/70e/rlqnzuvbiw7bivwupj5lu4afyqv72bif/DAVOS-YAndeks-market_1_07.jpg",
+            "https://severcon.ru/upload/iblock/be5/4ktt5j2wzq236y0libkof62k3bfagaqe/DAVOS-YAndeks-market_2_2.jpg",
+            "https://severcon.ru/upload/iblock/068/5epwhspjjon79yq6mel5clozax39lisy/DAVOS-YAndeks-market_3_1.jpg",
+            "https://severcon.ru/upload/iblock/923/fa04khd5nfax3sv84r00vapc2zllccko/DAVOS-YAndeks-market_3_2.jpg",
+            "https://severcon.ru/upload/iblock/b85/911uum1wcb0z36mf0u39jg734belbqur/DAVOS-YAndeks-market_4.jpg",
+            "https://severcon.ru/upload/iblock/288/7rm79uts27x7zxz5bf0vu8jsy30f8jrj/DAVOS-YAndeks-market_6.jpg",
+            "https://severcon.ru/upload/iblock/f98/h2kg8pd86h7vv1r1okg1zz52qy3kicxy/DAVOS-YAndeks-market_5.jpg",
+            "https://severcon.ru/upload/iblock/b13/tcuukiumpjohmstrtqngs56qso9rnje0/DAVOS-YAndeks-market_7_07.jpg",
+            "https://severcon.ru/upload/iblock/438/s6568qc1na9r73va6z0vxjo4tqr7aura/Render_Project_Energolux_Davos_001.png",
+            "https://severcon.ru/upload/iblock/c7f/y3x8cgl1768whesi3t221pugv1npnl7r/Render_Project_Energolux_Davos_002.png",
+            "https://severcon.ru/upload/iblock/eb7/76gd0kf58jto9546k839fiaojl3zhe59/Render_Project_Energolux_Davos_003.png",
+            "https://severcon.ru/upload/iblock/ab7/1zjccmf74cc2fgd3ozyt3gl8f1kwmnoh/Render_Project_Energolux_Davos_005.png",
+            "https://severcon.ru/upload/iblock/aea/k9rdtep2lzeht4gocx3yk2ru0sfie2iq/Render_Project_Energolux_Davos_006.png",
+            "https://severcon.ru/upload/iblock/685/qnll4mmd8s94h3irnjzu7chxbpjmyqpr/Render_Project_Energolux_Davos_007.png",
+            "https://severcon.ru/upload/iblock/183/wena89vzd430q1hzsm04wui3ixc3i6fy/Render_Project_davos_001.png",
+            "https://severcon.ru/upload/iblock/094/sm6g1izys8q84isonz2ia2vsm3rmh8fe/Render_Project_davos_002.png",
+            "https://severcon.ru/upload/iblock/d6b/k9e4jj9z09gdwudtevrdmw87yxe9b74g/Render_Project_davos_003.png",
+            "https://severcon.ru/upload/iblock/646/glgd2ix3o1zxh09wepaxa6b3yezx8dpu/Render_Project_davos_004.png",
+            "https://severcon.ru/upload/iblock/ae2/s7ifny8rek78rde68vimhrf7x2gp29vi/Render_Project_davos_005.png",
+            "https://severcon.ru/upload/iblock/e74/kjq3ew5q2l3tqj1f7cjeoyhhmylysz2z/Render_Project_davos_006.png",
+            "https://severcon.ru/upload/iblock/0d2/7m8xwvkplerbk19am0p3xmeytx0vx4bi/ENERGOLUX_-davos_INV_pult_1.png",
+            "https://severcon.ru/upload/iblock/060/83t1j0xypjhpf470dl6b5990r3jukxi0/ENERGOLUX_-davos_INV_pult_2.png",
+            "https://severcon.ru/upload/iblock/7cf/ncrsyg0irxav18xgpq05zk5h8jcixyfw/ENERGOLUX_-davos_INV_pult_3.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "13048",
+          "article": "SAS09R1-AI",
+          "name": "Energolux DAVOS PRO",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 38800,
+          "photos": [
+            "https://severcon.ru/upload/iblock/70e/rlqnzuvbiw7bivwupj5lu4afyqv72bif/DAVOS-YAndeks-market_1_07.jpg",
+            "https://severcon.ru/upload/iblock/be5/4ktt5j2wzq236y0libkof62k3bfagaqe/DAVOS-YAndeks-market_2_2.jpg",
+            "https://severcon.ru/upload/iblock/068/5epwhspjjon79yq6mel5clozax39lisy/DAVOS-YAndeks-market_3_1.jpg",
+            "https://severcon.ru/upload/iblock/923/fa04khd5nfax3sv84r00vapc2zllccko/DAVOS-YAndeks-market_3_2.jpg",
+            "https://severcon.ru/upload/iblock/b85/911uum1wcb0z36mf0u39jg734belbqur/DAVOS-YAndeks-market_4.jpg",
+            "https://severcon.ru/upload/iblock/288/7rm79uts27x7zxz5bf0vu8jsy30f8jrj/DAVOS-YAndeks-market_6.jpg",
+            "https://severcon.ru/upload/iblock/f98/h2kg8pd86h7vv1r1okg1zz52qy3kicxy/DAVOS-YAndeks-market_5.jpg",
+            "https://severcon.ru/upload/iblock/b13/tcuukiumpjohmstrtqngs56qso9rnje0/DAVOS-YAndeks-market_7_07.jpg",
+            "https://severcon.ru/upload/iblock/438/s6568qc1na9r73va6z0vxjo4tqr7aura/Render_Project_Energolux_Davos_001.png",
+            "https://severcon.ru/upload/iblock/c7f/y3x8cgl1768whesi3t221pugv1npnl7r/Render_Project_Energolux_Davos_002.png",
+            "https://severcon.ru/upload/iblock/eb7/76gd0kf58jto9546k839fiaojl3zhe59/Render_Project_Energolux_Davos_003.png",
+            "https://severcon.ru/upload/iblock/ab7/1zjccmf74cc2fgd3ozyt3gl8f1kwmnoh/Render_Project_Energolux_Davos_005.png",
+            "https://severcon.ru/upload/iblock/aea/k9rdtep2lzeht4gocx3yk2ru0sfie2iq/Render_Project_Energolux_Davos_006.png",
+            "https://severcon.ru/upload/iblock/685/qnll4mmd8s94h3irnjzu7chxbpjmyqpr/Render_Project_Energolux_Davos_007.png",
+            "https://severcon.ru/upload/iblock/183/wena89vzd430q1hzsm04wui3ixc3i6fy/Render_Project_davos_001.png",
+            "https://severcon.ru/upload/iblock/094/sm6g1izys8q84isonz2ia2vsm3rmh8fe/Render_Project_davos_002.png",
+            "https://severcon.ru/upload/iblock/d6b/k9e4jj9z09gdwudtevrdmw87yxe9b74g/Render_Project_davos_003.png",
+            "https://severcon.ru/upload/iblock/646/glgd2ix3o1zxh09wepaxa6b3yezx8dpu/Render_Project_davos_004.png",
+            "https://severcon.ru/upload/iblock/ae2/s7ifny8rek78rde68vimhrf7x2gp29vi/Render_Project_davos_005.png",
+            "https://severcon.ru/upload/iblock/e74/kjq3ew5q2l3tqj1f7cjeoyhhmylysz2z/Render_Project_davos_006.png",
+            "https://severcon.ru/upload/iblock/0d2/7m8xwvkplerbk19am0p3xmeytx0vx4bi/ENERGOLUX_-davos_INV_pult_1.png",
+            "https://severcon.ru/upload/iblock/060/83t1j0xypjhpf470dl6b5990r3jukxi0/ENERGOLUX_-davos_INV_pult_2.png",
+            "https://severcon.ru/upload/iblock/7cf/ncrsyg0irxav18xgpq05zk5h8jcixyfw/ENERGOLUX_-davos_INV_pult_3.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "13049",
+          "article": "SAS12R1-AI",
+          "name": "Energolux DAVOS PRO",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 46200,
+          "photos": [
+            "https://severcon.ru/upload/iblock/70e/rlqnzuvbiw7bivwupj5lu4afyqv72bif/DAVOS-YAndeks-market_1_07.jpg",
+            "https://severcon.ru/upload/iblock/be5/4ktt5j2wzq236y0libkof62k3bfagaqe/DAVOS-YAndeks-market_2_2.jpg",
+            "https://severcon.ru/upload/iblock/068/5epwhspjjon79yq6mel5clozax39lisy/DAVOS-YAndeks-market_3_1.jpg",
+            "https://severcon.ru/upload/iblock/923/fa04khd5nfax3sv84r00vapc2zllccko/DAVOS-YAndeks-market_3_2.jpg",
+            "https://severcon.ru/upload/iblock/b85/911uum1wcb0z36mf0u39jg734belbqur/DAVOS-YAndeks-market_4.jpg",
+            "https://severcon.ru/upload/iblock/288/7rm79uts27x7zxz5bf0vu8jsy30f8jrj/DAVOS-YAndeks-market_6.jpg",
+            "https://severcon.ru/upload/iblock/f98/h2kg8pd86h7vv1r1okg1zz52qy3kicxy/DAVOS-YAndeks-market_5.jpg",
+            "https://severcon.ru/upload/iblock/b13/tcuukiumpjohmstrtqngs56qso9rnje0/DAVOS-YAndeks-market_7_07.jpg",
+            "https://severcon.ru/upload/iblock/438/s6568qc1na9r73va6z0vxjo4tqr7aura/Render_Project_Energolux_Davos_001.png",
+            "https://severcon.ru/upload/iblock/c7f/y3x8cgl1768whesi3t221pugv1npnl7r/Render_Project_Energolux_Davos_002.png",
+            "https://severcon.ru/upload/iblock/eb7/76gd0kf58jto9546k839fiaojl3zhe59/Render_Project_Energolux_Davos_003.png",
+            "https://severcon.ru/upload/iblock/ab7/1zjccmf74cc2fgd3ozyt3gl8f1kwmnoh/Render_Project_Energolux_Davos_005.png",
+            "https://severcon.ru/upload/iblock/aea/k9rdtep2lzeht4gocx3yk2ru0sfie2iq/Render_Project_Energolux_Davos_006.png",
+            "https://severcon.ru/upload/iblock/685/qnll4mmd8s94h3irnjzu7chxbpjmyqpr/Render_Project_Energolux_Davos_007.png",
+            "https://severcon.ru/upload/iblock/183/wena89vzd430q1hzsm04wui3ixc3i6fy/Render_Project_davos_001.png",
+            "https://severcon.ru/upload/iblock/094/sm6g1izys8q84isonz2ia2vsm3rmh8fe/Render_Project_davos_002.png",
+            "https://severcon.ru/upload/iblock/d6b/k9e4jj9z09gdwudtevrdmw87yxe9b74g/Render_Project_davos_003.png",
+            "https://severcon.ru/upload/iblock/646/glgd2ix3o1zxh09wepaxa6b3yezx8dpu/Render_Project_davos_004.png",
+            "https://severcon.ru/upload/iblock/ae2/s7ifny8rek78rde68vimhrf7x2gp29vi/Render_Project_davos_005.png",
+            "https://severcon.ru/upload/iblock/e74/kjq3ew5q2l3tqj1f7cjeoyhhmylysz2z/Render_Project_davos_006.png",
+            "https://severcon.ru/upload/iblock/0d2/7m8xwvkplerbk19am0p3xmeytx0vx4bi/ENERGOLUX_-davos_INV_pult_1.png",
+            "https://severcon.ru/upload/iblock/060/83t1j0xypjhpf470dl6b5990r3jukxi0/ENERGOLUX_-davos_INV_pult_2.png",
+            "https://severcon.ru/upload/iblock/7cf/ncrsyg0irxav18xgpq05zk5h8jcixyfw/ENERGOLUX_-davos_INV_pult_3.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "13053",
+          "article": "SAS07MR1-A",
+          "name": "Energolux Murren",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 26900,
+          "photos": [
+            "https://severcon.ru/upload/iblock/fff/kmd595hcmehbvirpbdia53qjj75knqtt/M_RREN-YAndeks-market_1_07.jpg",
+            "https://severcon.ru/upload/iblock/2bc/jouy0fz5c4qaqk7h2rsvortgutl2a230/M_RREN-YAndeks-market_2.jpg",
+            "https://severcon.ru/upload/iblock/76c/alyl0yekrxuf92uto6zfzz4md5erz9uv/M_RREN-YAndeks-market_3.jpg",
+            "https://severcon.ru/upload/iblock/088/15ucbxz4y7jwba68jqa80cya1999upqy/M_RREN-YAndeks-market_4.jpg",
+            "https://severcon.ru/upload/iblock/14f/hcsnaddny32dz16o8dm6lyh8m9mj78vi/M_RREN-YAndeks-market_5.jpg",
+            "https://severcon.ru/upload/iblock/af5/9iwn8ff3j5af25vmr0yv2bcsp7omid6c/M_RREN-YAndeks-market_6_07.jpg",
+            "https://severcon.ru/upload/iblock/a42/4pcyt2s4dw8lazjj4gxttnckpft4zvup/Render_Project_Energolux_Murren_White_001.png",
+            "https://severcon.ru/upload/iblock/dd8/oai3r6g5vgumknocbivijdg72zbwaxw2/Render_Project_Energolux_Murren_White_002.png",
+            "https://severcon.ru/upload/iblock/8d5/7eyhkub0nfyxd3ga6vi1pnx77zj3vtkx/Render_Project_Energolux_Murren_White_003.png",
+            "https://severcon.ru/upload/iblock/0ec/nndlq480t329exly4u04pddzcaqth5nd/Render_Project_Energolux_Murren_White_004.png",
+            "https://severcon.ru/upload/iblock/af5/fa9yjbrtivv4aifh2gr0r81xo9f81l4c/Render_Project_Energolux_Murren_White_006.png",
+            "https://severcon.ru/upload/iblock/adb/zz401ex0m3e2m1nzhe88dp9eoksccnxm/Render_Project_Energolux_Murren_White_009.png",
+            "https://severcon.ru/upload/iblock/9d3/2a6spie6timzpepih03351a4mjzvxzi4/energolux_1.png",
+            "https://severcon.ru/upload/iblock/516/lbfgbbr1zq1w5er22lv0sayhxbsqod51/energolux_2.png",
+            "https://severcon.ru/upload/iblock/62f/6sobjoce4wsi1piathuiy720b44dx0jm/energolux_3.png",
+            "https://severcon.ru/upload/iblock/a83/taav13db1yam59wc4ztuoerysmf906bg/energolux_5.png",
+            "https://severcon.ru/upload/iblock/421/dd7r50o45llywyci5fyfq3lfh1rpnt81/Render_Project_Energolux_PDU_001.png",
+            "https://severcon.ru/upload/iblock/2b3/jos4tna44px5n4x8omj0ahw81kemnhtx/Render_Project_Energolux_PDU_003.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "13054",
+          "article": "SAS09MR1-A",
+          "name": "Energolux Murren",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 29000,
+          "photos": [
+            "https://severcon.ru/upload/iblock/fff/kmd595hcmehbvirpbdia53qjj75knqtt/M_RREN-YAndeks-market_1_07.jpg",
+            "https://severcon.ru/upload/iblock/2bc/jouy0fz5c4qaqk7h2rsvortgutl2a230/M_RREN-YAndeks-market_2.jpg",
+            "https://severcon.ru/upload/iblock/76c/alyl0yekrxuf92uto6zfzz4md5erz9uv/M_RREN-YAndeks-market_3.jpg",
+            "https://severcon.ru/upload/iblock/088/15ucbxz4y7jwba68jqa80cya1999upqy/M_RREN-YAndeks-market_4.jpg",
+            "https://severcon.ru/upload/iblock/14f/hcsnaddny32dz16o8dm6lyh8m9mj78vi/M_RREN-YAndeks-market_5.jpg",
+            "https://severcon.ru/upload/iblock/af5/9iwn8ff3j5af25vmr0yv2bcsp7omid6c/M_RREN-YAndeks-market_6_07.jpg",
+            "https://severcon.ru/upload/iblock/a42/4pcyt2s4dw8lazjj4gxttnckpft4zvup/Render_Project_Energolux_Murren_White_001.png",
+            "https://severcon.ru/upload/iblock/dd8/oai3r6g5vgumknocbivijdg72zbwaxw2/Render_Project_Energolux_Murren_White_002.png",
+            "https://severcon.ru/upload/iblock/8d5/7eyhkub0nfyxd3ga6vi1pnx77zj3vtkx/Render_Project_Energolux_Murren_White_003.png",
+            "https://severcon.ru/upload/iblock/0ec/nndlq480t329exly4u04pddzcaqth5nd/Render_Project_Energolux_Murren_White_004.png",
+            "https://severcon.ru/upload/iblock/af5/fa9yjbrtivv4aifh2gr0r81xo9f81l4c/Render_Project_Energolux_Murren_White_006.png",
+            "https://severcon.ru/upload/iblock/adb/zz401ex0m3e2m1nzhe88dp9eoksccnxm/Render_Project_Energolux_Murren_White_009.png",
+            "https://severcon.ru/upload/iblock/9d3/2a6spie6timzpepih03351a4mjzvxzi4/energolux_1.png",
+            "https://severcon.ru/upload/iblock/516/lbfgbbr1zq1w5er22lv0sayhxbsqod51/energolux_2.png",
+            "https://severcon.ru/upload/iblock/62f/6sobjoce4wsi1piathuiy720b44dx0jm/energolux_3.png",
+            "https://severcon.ru/upload/iblock/a83/taav13db1yam59wc4ztuoerysmf906bg/energolux_5.png",
+            "https://severcon.ru/upload/iblock/421/dd7r50o45llywyci5fyfq3lfh1rpnt81/Render_Project_Energolux_PDU_001.png",
+            "https://severcon.ru/upload/iblock/2b3/jos4tna44px5n4x8omj0ahw81kemnhtx/Render_Project_Energolux_PDU_003.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "13055",
+          "article": "SAS12MR1-A",
+          "name": "Energolux Murren",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 34000,
+          "photos": [
+            "https://severcon.ru/upload/iblock/fff/kmd595hcmehbvirpbdia53qjj75knqtt/M_RREN-YAndeks-market_1_07.jpg",
+            "https://severcon.ru/upload/iblock/2bc/jouy0fz5c4qaqk7h2rsvortgutl2a230/M_RREN-YAndeks-market_2.jpg",
+            "https://severcon.ru/upload/iblock/76c/alyl0yekrxuf92uto6zfzz4md5erz9uv/M_RREN-YAndeks-market_3.jpg",
+            "https://severcon.ru/upload/iblock/088/15ucbxz4y7jwba68jqa80cya1999upqy/M_RREN-YAndeks-market_4.jpg",
+            "https://severcon.ru/upload/iblock/14f/hcsnaddny32dz16o8dm6lyh8m9mj78vi/M_RREN-YAndeks-market_5.jpg",
+            "https://severcon.ru/upload/iblock/af5/9iwn8ff3j5af25vmr0yv2bcsp7omid6c/M_RREN-YAndeks-market_6_07.jpg",
+            "https://severcon.ru/upload/iblock/a42/4pcyt2s4dw8lazjj4gxttnckpft4zvup/Render_Project_Energolux_Murren_White_001.png",
+            "https://severcon.ru/upload/iblock/dd8/oai3r6g5vgumknocbivijdg72zbwaxw2/Render_Project_Energolux_Murren_White_002.png",
+            "https://severcon.ru/upload/iblock/8d5/7eyhkub0nfyxd3ga6vi1pnx77zj3vtkx/Render_Project_Energolux_Murren_White_003.png",
+            "https://severcon.ru/upload/iblock/0ec/nndlq480t329exly4u04pddzcaqth5nd/Render_Project_Energolux_Murren_White_004.png",
+            "https://severcon.ru/upload/iblock/af5/fa9yjbrtivv4aifh2gr0r81xo9f81l4c/Render_Project_Energolux_Murren_White_006.png",
+            "https://severcon.ru/upload/iblock/adb/zz401ex0m3e2m1nzhe88dp9eoksccnxm/Render_Project_Energolux_Murren_White_009.png",
+            "https://severcon.ru/upload/iblock/9d3/2a6spie6timzpepih03351a4mjzvxzi4/energolux_1.png",
+            "https://severcon.ru/upload/iblock/516/lbfgbbr1zq1w5er22lv0sayhxbsqod51/energolux_2.png",
+            "https://severcon.ru/upload/iblock/62f/6sobjoce4wsi1piathuiy720b44dx0jm/energolux_3.png",
+            "https://severcon.ru/upload/iblock/a83/taav13db1yam59wc4ztuoerysmf906bg/energolux_5.png",
+            "https://severcon.ru/upload/iblock/421/dd7r50o45llywyci5fyfq3lfh1rpnt81/Render_Project_Energolux_PDU_001.png",
+            "https://severcon.ru/upload/iblock/2b3/jos4tna44px5n4x8omj0ahw81kemnhtx/Render_Project_Energolux_PDU_003.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11934",
+          "article": "SAS09M1-AIB",
+          "name": "Energolux Murren",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 45800,
+          "photos": [
+            "https://severcon.ru/upload/iblock/d71/cn6bs93jkwaxfc906yx93jvi220d92ys/Frame-8781.png",
+            "https://severcon.ru/upload/iblock/f60/tirx8jdm7754qi6zm3vpuk5n8lg1h5lk/Frame-8782.png",
+            "https://severcon.ru/upload/iblock/258/zfls3zn08kugew6gj6z0sszrj3icnuam/Frame-8783.png",
+            "https://severcon.ru/upload/iblock/689/7yxp102aa6l2ajbrsp2ogi9wvlkv4f9k/Frame-8790.png",
+            "https://severcon.ru/upload/iblock/52c/mb2xenq0rn31m133ucknn28exv9w9nd3/Frame-8794.jpg",
+            "https://severcon.ru/upload/iblock/2cb/neub6ci6y5tbhfr2bx69rrctfbmdhkjf/razmerv.png",
+            "https://severcon.ru/upload/iblock/62b/y3wt4p06x6otkvdzbsu2fdya40p7mcsm/razmerv_1.png",
+            "https://severcon.ru/upload/iblock/a68/774thmobrj73ejmdnkvaerftt9b3x4a2/razmerv_2.png",
+            "https://severcon.ru/upload/iblock/452/7u9lubgy1zc0cxhdta90k0g2jsa6oh01/razmerv_6.png",
+            "https://severcon.ru/upload/iblock/10c/73rojy6w20dqh6vnby8hst0ta3n11ruj/razmerv_8.png",
+            "https://severcon.ru/upload/iblock/c46/g7ow1ntrug1fe6q02c0xoq6w8s2edvuk/Render_Project_Energolux_Murren_001.png",
+            "https://severcon.ru/upload/iblock/821/mk6r4avfid1lhsrkuipd4ban0u9jbjib/Render_Project_Energolux_Murren_002.png",
+            "https://severcon.ru/upload/iblock/0f0/78zxbtjjxeu2dmo0r5z321s9pp0jp150/Render_Project_Energolux_Murren_003.png",
+            "https://severcon.ru/upload/iblock/06d/go2zgwp6ts8ex0x10fpjmsxuj157b3hy/Render_Project_Energolux_Murren_004.png",
+            "https://severcon.ru/upload/iblock/954/d97teuki0ka6qvw3wvcixkbm15o8yxqx/Render_Project_Energolux_Murren_005.png",
+            "https://severcon.ru/upload/iblock/797/dnmac0wf68rofdju2xd7di1bckyhcfaa/Render_Project_Energolux_Murren_006.png",
+            "https://severcon.ru/upload/iblock/f31/wy2zabrfiwak49rwedu07fedkwakd53z/Render_Project_Energolux_Murren_007.png",
+            "https://severcon.ru/upload/iblock/e5c/99gs48fnn1fl5rgig8b6uclte30xrau0/Render_Project_Energolux_Murren_008.png",
+            "https://severcon.ru/upload/iblock/fb8/i23moy5doc5hr40df83ymia04iwvqgl6/Render_Project_Energolux_Murren_009.png",
+            "https://severcon.ru/upload/iblock/d33/kwfjo5k438a9w69ehcxr99v7l0tboq1x/energolux_1.png",
+            "https://severcon.ru/upload/iblock/778/1so43asmti9y00wfbrx3elvn3t9ajmzp/Render_Project_Energolux_Murren_PDU_002.png",
+            "https://severcon.ru/upload/iblock/9f6/2z0qffpvx7h74g0hoquu56314kb7f1aq/Render_Project_Energolux_Murren_PDU_001.png",
+            "https://severcon.ru/upload/iblock/175/5008k42w948n16eekgg9b5il3eirp2mv/Render_Project_Plastina_001-s-rasstoyaniem.png",
+            "https://severcon.ru/upload/iblock/f2e/bdd6f4oeat2gavi6d70w67xqbqfbczgs/Render_Project_Plastina_002.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11935",
+          "article": "SAS12M1-AIB",
+          "name": "Energolux Murren",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 50700,
+          "photos": [
+            "https://severcon.ru/upload/iblock/d71/cn6bs93jkwaxfc906yx93jvi220d92ys/Frame-8781.png",
+            "https://severcon.ru/upload/iblock/f60/tirx8jdm7754qi6zm3vpuk5n8lg1h5lk/Frame-8782.png",
+            "https://severcon.ru/upload/iblock/258/zfls3zn08kugew6gj6z0sszrj3icnuam/Frame-8783.png",
+            "https://severcon.ru/upload/iblock/689/7yxp102aa6l2ajbrsp2ogi9wvlkv4f9k/Frame-8790.png",
+            "https://severcon.ru/upload/iblock/52c/mb2xenq0rn31m133ucknn28exv9w9nd3/Frame-8794.jpg",
+            "https://severcon.ru/upload/iblock/2cb/neub6ci6y5tbhfr2bx69rrctfbmdhkjf/razmerv.png",
+            "https://severcon.ru/upload/iblock/62b/y3wt4p06x6otkvdzbsu2fdya40p7mcsm/razmerv_1.png",
+            "https://severcon.ru/upload/iblock/a68/774thmobrj73ejmdnkvaerftt9b3x4a2/razmerv_2.png",
+            "https://severcon.ru/upload/iblock/452/7u9lubgy1zc0cxhdta90k0g2jsa6oh01/razmerv_6.png",
+            "https://severcon.ru/upload/iblock/10c/73rojy6w20dqh6vnby8hst0ta3n11ruj/razmerv_8.png",
+            "https://severcon.ru/upload/iblock/c46/g7ow1ntrug1fe6q02c0xoq6w8s2edvuk/Render_Project_Energolux_Murren_001.png",
+            "https://severcon.ru/upload/iblock/821/mk6r4avfid1lhsrkuipd4ban0u9jbjib/Render_Project_Energolux_Murren_002.png",
+            "https://severcon.ru/upload/iblock/0f0/78zxbtjjxeu2dmo0r5z321s9pp0jp150/Render_Project_Energolux_Murren_003.png",
+            "https://severcon.ru/upload/iblock/06d/go2zgwp6ts8ex0x10fpjmsxuj157b3hy/Render_Project_Energolux_Murren_004.png",
+            "https://severcon.ru/upload/iblock/954/d97teuki0ka6qvw3wvcixkbm15o8yxqx/Render_Project_Energolux_Murren_005.png",
+            "https://severcon.ru/upload/iblock/797/dnmac0wf68rofdju2xd7di1bckyhcfaa/Render_Project_Energolux_Murren_006.png",
+            "https://severcon.ru/upload/iblock/f31/wy2zabrfiwak49rwedu07fedkwakd53z/Render_Project_Energolux_Murren_007.png",
+            "https://severcon.ru/upload/iblock/e5c/99gs48fnn1fl5rgig8b6uclte30xrau0/Render_Project_Energolux_Murren_008.png",
+            "https://severcon.ru/upload/iblock/fb8/i23moy5doc5hr40df83ymia04iwvqgl6/Render_Project_Energolux_Murren_009.png",
+            "https://severcon.ru/upload/iblock/d33/kwfjo5k438a9w69ehcxr99v7l0tboq1x/energolux_1.png",
+            "https://severcon.ru/upload/iblock/778/1so43asmti9y00wfbrx3elvn3t9ajmzp/Render_Project_Energolux_Murren_PDU_002.png",
+            "https://severcon.ru/upload/iblock/9f6/2z0qffpvx7h74g0hoquu56314kb7f1aq/Render_Project_Energolux_Murren_PDU_001.png",
+            "https://severcon.ru/upload/iblock/175/5008k42w948n16eekgg9b5il3eirp2mv/Render_Project_Plastina_001-s-rasstoyaniem.png",
+            "https://severcon.ru/upload/iblock/f2e/bdd6f4oeat2gavi6d70w67xqbqfbczgs/Render_Project_Plastina_002.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11936",
+          "article": "SAS18M1-AIB",
+          "name": "Energolux Murren",
+          "category": "Настенная сплит-система",
+          "btu": "18000",
+          "area": "до 50 м²",
+          "our_price": 88300,
+          "photos": [
+            "https://severcon.ru/upload/iblock/d71/cn6bs93jkwaxfc906yx93jvi220d92ys/Frame-8781.png",
+            "https://severcon.ru/upload/iblock/f60/tirx8jdm7754qi6zm3vpuk5n8lg1h5lk/Frame-8782.png",
+            "https://severcon.ru/upload/iblock/258/zfls3zn08kugew6gj6z0sszrj3icnuam/Frame-8783.png",
+            "https://severcon.ru/upload/iblock/689/7yxp102aa6l2ajbrsp2ogi9wvlkv4f9k/Frame-8790.png",
+            "https://severcon.ru/upload/iblock/52c/mb2xenq0rn31m133ucknn28exv9w9nd3/Frame-8794.jpg",
+            "https://severcon.ru/upload/iblock/2cb/neub6ci6y5tbhfr2bx69rrctfbmdhkjf/razmerv.png",
+            "https://severcon.ru/upload/iblock/62b/y3wt4p06x6otkvdzbsu2fdya40p7mcsm/razmerv_1.png",
+            "https://severcon.ru/upload/iblock/a68/774thmobrj73ejmdnkvaerftt9b3x4a2/razmerv_2.png",
+            "https://severcon.ru/upload/iblock/452/7u9lubgy1zc0cxhdta90k0g2jsa6oh01/razmerv_6.png",
+            "https://severcon.ru/upload/iblock/10c/73rojy6w20dqh6vnby8hst0ta3n11ruj/razmerv_8.png",
+            "https://severcon.ru/upload/iblock/c46/g7ow1ntrug1fe6q02c0xoq6w8s2edvuk/Render_Project_Energolux_Murren_001.png",
+            "https://severcon.ru/upload/iblock/821/mk6r4avfid1lhsrkuipd4ban0u9jbjib/Render_Project_Energolux_Murren_002.png",
+            "https://severcon.ru/upload/iblock/0f0/78zxbtjjxeu2dmo0r5z321s9pp0jp150/Render_Project_Energolux_Murren_003.png",
+            "https://severcon.ru/upload/iblock/06d/go2zgwp6ts8ex0x10fpjmsxuj157b3hy/Render_Project_Energolux_Murren_004.png",
+            "https://severcon.ru/upload/iblock/954/d97teuki0ka6qvw3wvcixkbm15o8yxqx/Render_Project_Energolux_Murren_005.png",
+            "https://severcon.ru/upload/iblock/797/dnmac0wf68rofdju2xd7di1bckyhcfaa/Render_Project_Energolux_Murren_006.png",
+            "https://severcon.ru/upload/iblock/f31/wy2zabrfiwak49rwedu07fedkwakd53z/Render_Project_Energolux_Murren_007.png",
+            "https://severcon.ru/upload/iblock/e5c/99gs48fnn1fl5rgig8b6uclte30xrau0/Render_Project_Energolux_Murren_008.png",
+            "https://severcon.ru/upload/iblock/fb8/i23moy5doc5hr40df83ymia04iwvqgl6/Render_Project_Energolux_Murren_009.png",
+            "https://severcon.ru/upload/iblock/d33/kwfjo5k438a9w69ehcxr99v7l0tboq1x/energolux_1.png",
+            "https://severcon.ru/upload/iblock/778/1so43asmti9y00wfbrx3elvn3t9ajmzp/Render_Project_Energolux_Murren_PDU_002.png",
+            "https://severcon.ru/upload/iblock/9f6/2z0qffpvx7h74g0hoquu56314kb7f1aq/Render_Project_Energolux_Murren_PDU_001.png",
+            "https://severcon.ru/upload/iblock/175/5008k42w948n16eekgg9b5il3eirp2mv/Render_Project_Plastina_001-s-rasstoyaniem.png",
+            "https://severcon.ru/upload/iblock/f2e/bdd6f4oeat2gavi6d70w67xqbqfbczgs/Render_Project_Plastina_002.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11930",
+          "article": "SAS09DL2-AIB",
+          "name": "Energolux Lugano PRO Line",
+          "category": "Тепловой насос",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 66700,
+          "photos": [
+            "https://severcon.ru/upload/iblock/9e9/9iolpxk7rh1vaqeiu4rh8w3iadyq3di6/Lugano_PRO-Line_09BTU_01.jpg",
+            "https://severcon.ru/upload/iblock/308/7dtrqxchlb3czfidatj0jea8lmg5gosp/Lugano_PRO-Line_09BTU_02.jpg",
+            "https://severcon.ru/upload/iblock/f97/hok3c4ox74osx9g5yfumbavcn8xsz8vt/Lugano_PRO-Line_09BTU_03.jpg",
+            "https://severcon.ru/upload/iblock/e04/u2mq6qbsscn8m4yfh669ck84es5klkgp/Lugano_PRO-Line_09BTU_04_04.jpg",
+            "https://severcon.ru/upload/iblock/b05/jfkg43zw7h5jtw9q76dzpznluobgejt8/Lugano_PRO-Line_09BTU_05.jpg",
+            "https://severcon.ru/upload/iblock/84d/fwirqbc7adg3689fhthk1desn7wft1zc/Lugano_PRO-Line_09BTU_06.jpg",
+            "https://severcon.ru/upload/iblock/6d2/44gd8zltg2whbyr1rd6mz946fra1fw42/Lugano_PRO-Line_09BTU_07.jpg",
+            "https://severcon.ru/upload/iblock/e0e/lu6oph6pi8rgrwwqnsukkyr9bcylrhmx/Lugano_PRO-Line_09BTU_08.jpg",
+            "https://severcon.ru/upload/iblock/a03/8upegfstwz6w38df5egus6hl3snvkjpl/Lugano_PRO-Line_09BTU_09.jpg",
+            "https://severcon.ru/upload/iblock/f3c/erz21s7e1kz24krlht2s82yll5zybr4t/Render_Project_Energolux_Lugano_001.png",
+            "https://severcon.ru/upload/iblock/61e/8mrzju1opm01cp8dc0drp3d9owa76y4l/Render_Project_Energolux_Lugano_002.png",
+            "https://severcon.ru/upload/iblock/a37/sxtobsmsjzw23zxv23j63u0xuqtvoxex/Render_Project_Energolux_Lugano_003.png",
+            "https://severcon.ru/upload/iblock/52b/rxbqx1rm2d4f0q9mwmn42pi50guc4fv4/Render_Project_Energolux_Lugano_004.png",
+            "https://severcon.ru/upload/iblock/e3e/b98kq06jbysjgfp25r1clanzeqy2xlc5/Render_Project_Energolux_Lugano_005.png",
+            "https://severcon.ru/upload/iblock/db6/0w5zludwkz2vj7oz6h7z8jdkxuw91f1b/Render_Project_Energolux_Lugano_006.png",
+            "https://severcon.ru/upload/iblock/704/9vc86u2u23f4rsozt4thqjpht6ig77eb/Render_Project_Energolux_Lugano_007.png",
+            "https://severcon.ru/upload/iblock/c56/m3yunpq87ngpzjgeczyfvnny48of02hn/Render_Project_Energolux_Lugano_008.png",
+            "https://severcon.ru/upload/iblock/b7b/rcbew270mgklii8mv2cl77j5iitdqprb/Render_Project_Energolux_Lugano_009.png",
+            "https://severcon.ru/upload/iblock/157/62zdo926qoissknryxro904d3m1avsg5/Render_Project_Energolux_Lugano_002.png",
+            "https://severcon.ru/upload/iblock/c25/kj3o5r2u8bko6h5v2i7wb2sl3g6qhou4/Render_Project_Energolux_Lugano_001.png",
+            "https://severcon.ru/upload/iblock/222/x9gux7rdgp7k3rd5nvf1e8n0miuz92i3/ENERGOLUX_-Lugano_INV_pult_2.png",
+            "https://severcon.ru/upload/iblock/566/wz290tnv2rg0kiw2b557hrzksm2nd1s3/ENERGOLUX_-Lugano_INV_pult_1.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11931",
+          "article": "SAS12DL2-AIB",
+          "name": "Energolux Lugano PRO Line",
+          "category": "Тепловой насос",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 77600,
+          "photos": [
+            "https://severcon.ru/upload/iblock/9e9/9iolpxk7rh1vaqeiu4rh8w3iadyq3di6/Lugano_PRO-Line_09BTU_01.jpg",
+            "https://severcon.ru/upload/iblock/308/7dtrqxchlb3czfidatj0jea8lmg5gosp/Lugano_PRO-Line_09BTU_02.jpg",
+            "https://severcon.ru/upload/iblock/f97/hok3c4ox74osx9g5yfumbavcn8xsz8vt/Lugano_PRO-Line_09BTU_03.jpg",
+            "https://severcon.ru/upload/iblock/e04/u2mq6qbsscn8m4yfh669ck84es5klkgp/Lugano_PRO-Line_09BTU_04_04.jpg",
+            "https://severcon.ru/upload/iblock/b05/jfkg43zw7h5jtw9q76dzpznluobgejt8/Lugano_PRO-Line_09BTU_05.jpg",
+            "https://severcon.ru/upload/iblock/84d/fwirqbc7adg3689fhthk1desn7wft1zc/Lugano_PRO-Line_09BTU_06.jpg",
+            "https://severcon.ru/upload/iblock/6d2/44gd8zltg2whbyr1rd6mz946fra1fw42/Lugano_PRO-Line_09BTU_07.jpg",
+            "https://severcon.ru/upload/iblock/e0e/lu6oph6pi8rgrwwqnsukkyr9bcylrhmx/Lugano_PRO-Line_09BTU_08.jpg",
+            "https://severcon.ru/upload/iblock/a03/8upegfstwz6w38df5egus6hl3snvkjpl/Lugano_PRO-Line_09BTU_09.jpg",
+            "https://severcon.ru/upload/iblock/f3c/erz21s7e1kz24krlht2s82yll5zybr4t/Render_Project_Energolux_Lugano_001.png",
+            "https://severcon.ru/upload/iblock/61e/8mrzju1opm01cp8dc0drp3d9owa76y4l/Render_Project_Energolux_Lugano_002.png",
+            "https://severcon.ru/upload/iblock/a37/sxtobsmsjzw23zxv23j63u0xuqtvoxex/Render_Project_Energolux_Lugano_003.png",
+            "https://severcon.ru/upload/iblock/52b/rxbqx1rm2d4f0q9mwmn42pi50guc4fv4/Render_Project_Energolux_Lugano_004.png",
+            "https://severcon.ru/upload/iblock/e3e/b98kq06jbysjgfp25r1clanzeqy2xlc5/Render_Project_Energolux_Lugano_005.png",
+            "https://severcon.ru/upload/iblock/db6/0w5zludwkz2vj7oz6h7z8jdkxuw91f1b/Render_Project_Energolux_Lugano_006.png",
+            "https://severcon.ru/upload/iblock/704/9vc86u2u23f4rsozt4thqjpht6ig77eb/Render_Project_Energolux_Lugano_007.png",
+            "https://severcon.ru/upload/iblock/c56/m3yunpq87ngpzjgeczyfvnny48of02hn/Render_Project_Energolux_Lugano_008.png",
+            "https://severcon.ru/upload/iblock/b7b/rcbew270mgklii8mv2cl77j5iitdqprb/Render_Project_Energolux_Lugano_009.png",
+            "https://severcon.ru/upload/iblock/157/62zdo926qoissknryxro904d3m1avsg5/Render_Project_Energolux_Lugano_002.png",
+            "https://severcon.ru/upload/iblock/c25/kj3o5r2u8bko6h5v2i7wb2sl3g6qhou4/Render_Project_Energolux_Lugano_001.png",
+            "https://severcon.ru/upload/iblock/222/x9gux7rdgp7k3rd5nvf1e8n0miuz92i3/ENERGOLUX_-Lugano_INV_pult_2.png",
+            "https://severcon.ru/upload/iblock/566/wz290tnv2rg0kiw2b557hrzksm2nd1s3/ENERGOLUX_-Lugano_INV_pult_1.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11926",
+          "article": "SAS09DL1-AIB",
+          "name": "Energolux Lugano PRO",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 47900,
+          "photos": [
+            "https://severcon.ru/upload/iblock/9e9/9iolpxk7rh1vaqeiu4rh8w3iadyq3di6/Lugano_PRO-Line_09BTU_01.jpg",
+            "https://severcon.ru/upload/iblock/308/7dtrqxchlb3czfidatj0jea8lmg5gosp/Lugano_PRO-Line_09BTU_02.jpg",
+            "https://severcon.ru/upload/iblock/f97/hok3c4ox74osx9g5yfumbavcn8xsz8vt/Lugano_PRO-Line_09BTU_03.jpg",
+            "https://severcon.ru/upload/iblock/e04/u2mq6qbsscn8m4yfh669ck84es5klkgp/Lugano_PRO-Line_09BTU_04_04.jpg",
+            "https://severcon.ru/upload/iblock/b05/jfkg43zw7h5jtw9q76dzpznluobgejt8/Lugano_PRO-Line_09BTU_05.jpg",
+            "https://severcon.ru/upload/iblock/84d/fwirqbc7adg3689fhthk1desn7wft1zc/Lugano_PRO-Line_09BTU_06.jpg",
+            "https://severcon.ru/upload/iblock/6d2/44gd8zltg2whbyr1rd6mz946fra1fw42/Lugano_PRO-Line_09BTU_07.jpg",
+            "https://severcon.ru/upload/iblock/e0e/lu6oph6pi8rgrwwqnsukkyr9bcylrhmx/Lugano_PRO-Line_09BTU_08.jpg",
+            "https://severcon.ru/upload/iblock/a03/8upegfstwz6w38df5egus6hl3snvkjpl/Lugano_PRO-Line_09BTU_09.jpg",
+            "https://severcon.ru/upload/iblock/f3c/erz21s7e1kz24krlht2s82yll5zybr4t/Render_Project_Energolux_Lugano_001.png",
+            "https://severcon.ru/upload/iblock/61e/8mrzju1opm01cp8dc0drp3d9owa76y4l/Render_Project_Energolux_Lugano_002.png",
+            "https://severcon.ru/upload/iblock/a37/sxtobsmsjzw23zxv23j63u0xuqtvoxex/Render_Project_Energolux_Lugano_003.png",
+            "https://severcon.ru/upload/iblock/52b/rxbqx1rm2d4f0q9mwmn42pi50guc4fv4/Render_Project_Energolux_Lugano_004.png",
+            "https://severcon.ru/upload/iblock/e3e/b98kq06jbysjgfp25r1clanzeqy2xlc5/Render_Project_Energolux_Lugano_005.png",
+            "https://severcon.ru/upload/iblock/db6/0w5zludwkz2vj7oz6h7z8jdkxuw91f1b/Render_Project_Energolux_Lugano_006.png",
+            "https://severcon.ru/upload/iblock/704/9vc86u2u23f4rsozt4thqjpht6ig77eb/Render_Project_Energolux_Lugano_007.png",
+            "https://severcon.ru/upload/iblock/c56/m3yunpq87ngpzjgeczyfvnny48of02hn/Render_Project_Energolux_Lugano_008.png",
+            "https://severcon.ru/upload/iblock/b7b/rcbew270mgklii8mv2cl77j5iitdqprb/Render_Project_Energolux_Lugano_009.png",
+            "https://severcon.ru/upload/iblock/157/62zdo926qoissknryxro904d3m1avsg5/Render_Project_Energolux_Lugano_002.png",
+            "https://severcon.ru/upload/iblock/c25/kj3o5r2u8bko6h5v2i7wb2sl3g6qhou4/Render_Project_Energolux_Lugano_001.png",
+            "https://severcon.ru/upload/iblock/222/x9gux7rdgp7k3rd5nvf1e8n0miuz92i3/ENERGOLUX_-Lugano_INV_pult_2.png",
+            "https://severcon.ru/upload/iblock/566/wz290tnv2rg0kiw2b557hrzksm2nd1s3/ENERGOLUX_-Lugano_INV_pult_1.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "9955",
+          "article": "SAS07BN3-AI",
+          "name": "Energolux BERN",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 40700,
+          "photos": [
+            "https://severcon.ru/upload/iblock/5aa/dh21m9tfj9yycihrhqd8i9jjopgtmlri/bern4.png",
+            "https://severcon.ru/upload/iblock/f4b/o4khenpq3yarraw0k53aoxpm6ixi6r2u/Energolux-Conds12671.jpg",
+            "https://severcon.ru/upload/iblock/a88/mhatwlsi1d315m260e1y9ej5l3yfwd7d/Energolux-Conds12691.jpg",
+            "https://severcon.ru/upload/iblock/d5e/c3u8g02w2ehkby9cx5l1oyt7swr29tl5/Energolux-Conds12694.jpg",
+            "https://severcon.ru/upload/iblock/908/1nsqy8rkncp9jo4fz8febgivhysobdj0/Naruzhnyy-blok_Energolux_Bern_002.png",
+            "https://severcon.ru/upload/iblock/4a4/wpihz02ijxpgs440wj6gp0hcudzkk2dx/Render_Project_PDU_Energolux_002.png",
+            "https://severcon.ru/upload/iblock/a11/t5iw25m11so9oqbkehtyp3qswvg855b4/Render_Project_PDU_Energolux_001.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "9956",
+          "article": "SAS12BN3-AI",
+          "name": "Energolux BERN",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 49500,
+          "photos": [
+            "https://severcon.ru/upload/iblock/5aa/dh21m9tfj9yycihrhqd8i9jjopgtmlri/bern4.png",
+            "https://severcon.ru/upload/iblock/f4b/o4khenpq3yarraw0k53aoxpm6ixi6r2u/Energolux-Conds12671.jpg",
+            "https://severcon.ru/upload/iblock/a88/mhatwlsi1d315m260e1y9ej5l3yfwd7d/Energolux-Conds12691.jpg",
+            "https://severcon.ru/upload/iblock/d5e/c3u8g02w2ehkby9cx5l1oyt7swr29tl5/Energolux-Conds12694.jpg",
+            "https://severcon.ru/upload/iblock/908/1nsqy8rkncp9jo4fz8febgivhysobdj0/Naruzhnyy-blok_Energolux_Bern_002.png",
+            "https://severcon.ru/upload/iblock/4a4/wpihz02ijxpgs440wj6gp0hcudzkk2dx/Render_Project_PDU_Energolux_002.png",
+            "https://severcon.ru/upload/iblock/a11/t5iw25m11so9oqbkehtyp3qswvg855b4/Render_Project_PDU_Energolux_001.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "9965",
+          "article": "SAS07B3-A",
+          "name": "Energolux BASEL",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 32150,
+          "photos": [
+            "https://severcon.ru/upload/iblock/fe4/p9rojg14taonenv4t1dkdadrmpj0sky7/2.jpg",
+            "https://severcon.ru/upload/iblock/07e/mbirc5hdzgc1urkgx7qmjrzl3r4snye4/3.jpg"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "9966",
+          "article": "SAS09B3-A",
+          "name": "Energolux BASEL",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 41730,
+          "photos": [
+            "https://severcon.ru/upload/iblock/fe4/p9rojg14taonenv4t1dkdadrmpj0sky7/2.jpg",
+            "https://severcon.ru/upload/iblock/07e/mbirc5hdzgc1urkgx7qmjrzl3r4snye4/3.jpg"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "9967",
+          "article": "SAS12B3-A",
+          "name": "Energolux BASEL",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 53430,
+          "photos": [
+            "https://severcon.ru/upload/iblock/fe4/p9rojg14taonenv4t1dkdadrmpj0sky7/2.jpg",
+            "https://severcon.ru/upload/iblock/07e/mbirc5hdzgc1urkgx7qmjrzl3r4snye4/3.jpg"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "9973",
+          "article": "SAS09AR1-A",
+          "name": "Energolux LAUSANNE",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 28000,
+          "photos": [
+            "https://severcon.ru/upload/iblock/402/zoneqa3k43phj896ttg3xshltr2n1aqy/Lausanne-YAndeks-market_1_09.jpg",
+            "https://severcon.ru/upload/iblock/337/jus82puk6towa7abw304z83s83egxp6m/Lausanne-YAndeks-market_2.jpg",
+            "https://severcon.ru/upload/iblock/09b/x8ahqi6zg7ro23y4zvwahy9yop58xr9q/Lausanne-YAndeks-market_3.jpg",
+            "https://severcon.ru/upload/iblock/7db/er8y1kwaqbwioxh54bp1n81cecq71q8x/Lausanne-YAndeks-market_4.jpg",
+            "https://severcon.ru/upload/iblock/87d/ftqy43r8jq98tzm0c9sxy91okkqnpsuv/Lausanne-YAndeks-market_5.jpg",
+            "https://severcon.ru/upload/iblock/b68/7bz102bca82qmwlbl00k9aauk2w1tj1e/Lausanne-YAndeks-market_6.jpg",
+            "https://severcon.ru/upload/iblock/ed8/joxpabo5yplahk3eg8pi317f0428r2h2/Lausanne-YAndeks-market_7_09.jpg",
+            "https://severcon.ru/upload/iblock/5a8/8xw0xlb06ysi1wdzby9z3mkm659tp3cy/Render_Project_Energolux_Lausanne_001.png",
+            "https://severcon.ru/upload/iblock/c96/3ydbnvh7o13mjc9k2gfa3to68muowj2c/Render_Project_Energolux_Lausanne_002.png",
+            "https://severcon.ru/upload/iblock/e36/1s00xs8xshjpr4k1q3p1tvrau1bp6vn4/Render_Project_Energolux_Lausanne_003.png",
+            "https://severcon.ru/upload/iblock/9c9/mosdxjn58jzryqx4jpdlfkykrtjgrjch/Render_Project_Energolux_Lausanne_005.png",
+            "https://severcon.ru/upload/iblock/e10/h7dr6iyzfbtfl4tx364df9wkaskooyvh/Render_Project_Energolux_Lausanne_006.png",
+            "https://severcon.ru/upload/iblock/e35/uc3jyxmds06phn423wkjb5l3flgmg234/Render_Project_Energolux_Lausanne_007.png",
+            "https://severcon.ru/upload/iblock/ef4/l193q2xab4ve946vg9ajoyglleyo9jwm/Render_Project_Energolux_Lausanne-1.png",
+            "https://severcon.ru/upload/iblock/f8d/0rs68v1u5pfdbcvhfyil53qzg9mxlbl2/Render_Project_Energolux_Lausanne-2.png",
+            "https://severcon.ru/upload/iblock/c60/85j3omi9aix0o5687d0ukh8xft71zyj3/Render_Project_Energolux_Lausanne-3.png",
+            "https://severcon.ru/upload/iblock/80a/s1mes4t8oqizufkc9kp725db1aq82euz/Render_Project_Energolux_Lausanne-4.png",
+            "https://severcon.ru/upload/iblock/3c2/1d6qw88z5f4v9tjtl78u6518di6vm6ym/Render_Project_Energolux_Lausanne-5.png",
+            "https://severcon.ru/upload/iblock/134/nqq2qodq9mad3sccs9pg4nquk9z2ehy0/Render_Project_Energolux_Lausanne-6.png",
+            "https://severcon.ru/upload/iblock/5b0/v95oyj6plhjywa0z9feez6nxx3px4e6b/Render_Project_Energolux_Lausanne_pult_1.png",
+            "https://severcon.ru/upload/iblock/b6e/4m0xn0amwzog545ayld88m96phyaumyp/Render_Project_Energolux_Lausanne_pult_2.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "4528",
+          "article": "SAS07Z5-AI",
+          "name": "Energolux ZURICH",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 32200,
+          "photos": [
+            "https://severcon.ru/upload/iblock/82b/rzcl1vw0wszmogvk3sq54gej64adlv7f/1.png",
+            "https://severcon.ru/upload/iblock/e8b/ua5l1l8o1pu424t9t5iow29hub5usjj3/3.png",
+            "https://severcon.ru/upload/iblock/737/6gxnmljdxyhtxnlfxxbs1d4u9okwr4gp/4.png",
+            "https://severcon.ru/upload/iblock/853/oe0220f54nuq9cuavecgils0xcn9u53v/5.png",
+            "https://severcon.ru/upload/iblock/7bc/bstj33k629n2bfwjupooug9znmxlzcnz/6.png",
+            "https://severcon.ru/upload/iblock/4d9/yjymjkqrdop6ev7x1vgchus7d50ll8dg/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_2.png",
+            "https://severcon.ru/upload/iblock/b4c/wb33gf7aivhs56am03n6bjzg1sz1s2qv/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_3.png",
+            "https://severcon.ru/upload/iblock/541/i2ms61yxykzb9q3nz4fmc3uc9ln35xla/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_4.png",
+            "https://severcon.ru/upload/iblock/08a/qetpdl4tmgqqllhpwpith622u01848dl/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_5.png",
+            "https://severcon.ru/upload/iblock/118/jr46vx2hqp3n3ys2hsheb2iunn1bcm7h/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_6.png",
+            "https://severcon.ru/upload/iblock/344/9hzfg0l0ltd3c1kb2fqehthy55j0fx0z/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_7.png",
+            "https://severcon.ru/upload/iblock/377/2gzntj61x0gsqwt1en5jus2go5tn1whm/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_8.png",
+            "https://severcon.ru/upload/iblock/e8f/o78r4ql0zplqhagxwvkymeiw0klkg5u1/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_9.png",
+            "https://severcon.ru/upload/iblock/ac4/w6nxv8t4uavo2kdu00buknafmnwi3t5d/ENERGOLUX_ZURICH_INV_pult_4.png",
+            "https://severcon.ru/upload/iblock/1a1/mnlig9s7e0mfkttn4gefx3vju1wcue3o/ENERGOLUX_ZURICH_INV_pult_2.png",
+            "https://severcon.ru/upload/iblock/298/s2kuwqwygjz7v252fhacg9jggq6jau89/ENERGOLUX_ZURICH_SAU_Z5_AI_INV_6.png",
+            "https://severcon.ru/upload/iblock/124/vkf8hn6fp8t186xlpwemlvbx9gch9xq8/ENERGOLUX_ZURICH_SAU_Z5_AI_INV_1.png",
+            "https://severcon.ru/upload/iblock/881/em6bdy5c1emhfio3tov4o5ke0jnvz0fd/ENERGOLUX_ZURICH_SAU_Z5_AI_INV_2.png",
+            "https://severcon.ru/upload/iblock/dad/evcmobjv1hchly990mp5iy2pjh81shry/ENERGOLUX_ZURICH_SAU_Z5_AI_INV_3.png",
+            "https://severcon.ru/upload/iblock/33b/gdy3nk2lb1xi3e8gcug6dzyxd3hn2gzr/ENERGOLUX_ZURICH_SAU_Z5_AI_INV_4.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "4530",
+          "article": "SAS09Z5-AI",
+          "name": "Energolux ZURICH",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 35600,
+          "photos": [
+            "https://severcon.ru/upload/iblock/82b/rzcl1vw0wszmogvk3sq54gej64adlv7f/1.png",
+            "https://severcon.ru/upload/iblock/e8b/ua5l1l8o1pu424t9t5iow29hub5usjj3/3.png",
+            "https://severcon.ru/upload/iblock/737/6gxnmljdxyhtxnlfxxbs1d4u9okwr4gp/4.png",
+            "https://severcon.ru/upload/iblock/853/oe0220f54nuq9cuavecgils0xcn9u53v/5.png",
+            "https://severcon.ru/upload/iblock/7bc/bstj33k629n2bfwjupooug9znmxlzcnz/6.png",
+            "https://severcon.ru/upload/iblock/4d9/yjymjkqrdop6ev7x1vgchus7d50ll8dg/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_2.png",
+            "https://severcon.ru/upload/iblock/b4c/wb33gf7aivhs56am03n6bjzg1sz1s2qv/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_3.png",
+            "https://severcon.ru/upload/iblock/541/i2ms61yxykzb9q3nz4fmc3uc9ln35xla/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_4.png",
+            "https://severcon.ru/upload/iblock/08a/qetpdl4tmgqqllhpwpith622u01848dl/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_5.png",
+            "https://severcon.ru/upload/iblock/118/jr46vx2hqp3n3ys2hsheb2iunn1bcm7h/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_6.png",
+            "https://severcon.ru/upload/iblock/344/9hzfg0l0ltd3c1kb2fqehthy55j0fx0z/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_7.png",
+            "https://severcon.ru/upload/iblock/377/2gzntj61x0gsqwt1en5jus2go5tn1whm/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_8.png",
+            "https://severcon.ru/upload/iblock/e8f/o78r4ql0zplqhagxwvkymeiw0klkg5u1/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_9.png",
+            "https://severcon.ru/upload/iblock/ac4/w6nxv8t4uavo2kdu00buknafmnwi3t5d/ENERGOLUX_ZURICH_INV_pult_4.png",
+            "https://severcon.ru/upload/iblock/1a1/mnlig9s7e0mfkttn4gefx3vju1wcue3o/ENERGOLUX_ZURICH_INV_pult_2.png",
+            "https://severcon.ru/upload/iblock/298/s2kuwqwygjz7v252fhacg9jggq6jau89/ENERGOLUX_ZURICH_SAU_Z5_AI_INV_6.png",
+            "https://severcon.ru/upload/iblock/124/vkf8hn6fp8t186xlpwemlvbx9gch9xq8/ENERGOLUX_ZURICH_SAU_Z5_AI_INV_1.png",
+            "https://severcon.ru/upload/iblock/881/em6bdy5c1emhfio3tov4o5ke0jnvz0fd/ENERGOLUX_ZURICH_SAU_Z5_AI_INV_2.png",
+            "https://severcon.ru/upload/iblock/dad/evcmobjv1hchly990mp5iy2pjh81shry/ENERGOLUX_ZURICH_SAU_Z5_AI_INV_3.png",
+            "https://severcon.ru/upload/iblock/33b/gdy3nk2lb1xi3e8gcug6dzyxd3hn2gzr/ENERGOLUX_ZURICH_SAU_Z5_AI_INV_4.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "4531",
+          "article": "SAS12Z5-AI",
+          "name": "Energolux ZURICH",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 41700,
+          "photos": [
+            "https://severcon.ru/upload/iblock/82b/rzcl1vw0wszmogvk3sq54gej64adlv7f/1.png",
+            "https://severcon.ru/upload/iblock/e8b/ua5l1l8o1pu424t9t5iow29hub5usjj3/3.png",
+            "https://severcon.ru/upload/iblock/737/6gxnmljdxyhtxnlfxxbs1d4u9okwr4gp/4.png",
+            "https://severcon.ru/upload/iblock/853/oe0220f54nuq9cuavecgils0xcn9u53v/5.png",
+            "https://severcon.ru/upload/iblock/7bc/bstj33k629n2bfwjupooug9znmxlzcnz/6.png",
+            "https://severcon.ru/upload/iblock/4d9/yjymjkqrdop6ev7x1vgchus7d50ll8dg/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_2.png",
+            "https://severcon.ru/upload/iblock/b4c/wb33gf7aivhs56am03n6bjzg1sz1s2qv/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_3.png",
+            "https://severcon.ru/upload/iblock/541/i2ms61yxykzb9q3nz4fmc3uc9ln35xla/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_4.png",
+            "https://severcon.ru/upload/iblock/08a/qetpdl4tmgqqllhpwpith622u01848dl/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_5.png",
+            "https://severcon.ru/upload/iblock/118/jr46vx2hqp3n3ys2hsheb2iunn1bcm7h/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_6.png",
+            "https://severcon.ru/upload/iblock/344/9hzfg0l0ltd3c1kb2fqehthy55j0fx0z/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_7.png",
+            "https://severcon.ru/upload/iblock/377/2gzntj61x0gsqwt1en5jus2go5tn1whm/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_8.png",
+            "https://severcon.ru/upload/iblock/e8f/o78r4ql0zplqhagxwvkymeiw0klkg5u1/ENERGOLUX_ZURICH_SAS_Z5_AI_INV_white_9.png",
+            "https://severcon.ru/upload/iblock/ac4/w6nxv8t4uavo2kdu00buknafmnwi3t5d/ENERGOLUX_ZURICH_INV_pult_4.png",
+            "https://severcon.ru/upload/iblock/1a1/mnlig9s7e0mfkttn4gefx3vju1wcue3o/ENERGOLUX_ZURICH_INV_pult_2.png",
+            "https://severcon.ru/upload/iblock/298/s2kuwqwygjz7v252fhacg9jggq6jau89/ENERGOLUX_ZURICH_SAU_Z5_AI_INV_6.png",
+            "https://severcon.ru/upload/iblock/124/vkf8hn6fp8t186xlpwemlvbx9gch9xq8/ENERGOLUX_ZURICH_SAU_Z5_AI_INV_1.png",
+            "https://severcon.ru/upload/iblock/881/em6bdy5c1emhfio3tov4o5ke0jnvz0fd/ENERGOLUX_ZURICH_SAU_Z5_AI_INV_2.png",
+            "https://severcon.ru/upload/iblock/dad/evcmobjv1hchly990mp5iy2pjh81shry/ENERGOLUX_ZURICH_SAU_Z5_AI_INV_3.png",
+            "https://severcon.ru/upload/iblock/33b/gdy3nk2lb1xi3e8gcug6dzyxd3hn2gzr/ENERGOLUX_ZURICH_SAU_Z5_AI_INV_4.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "2640",
+          "article": "SAS07CH1-AI",
+          "name": "Energolux CHAMPERY",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 42700,
+          "photos": [
+            "https://severcon.ru/upload/iblock/55d/Render_Project_Champery_001.png",
+            "https://severcon.ru/upload/iblock/854/Render_Project_Champery_003.png",
+            "https://severcon.ru/upload/iblock/4f3/Render_Project_Champery_004.png",
+            "https://severcon.ru/upload/iblock/917/Render_Project_Champery_005.png",
+            "https://severcon.ru/upload/iblock/3eb/Render_Project_Champery_006.png",
+            "https://severcon.ru/upload/iblock/62d/ormu3ipkgy22ig8jxnxq1jeqjkj0ftaj/energolux_1.png",
+            "https://severcon.ru/upload/iblock/3d1/3jp8pilcc6myh5gwyacun90vfdpr71gf/Render_Project_Energolux_PDU_00.png",
+            "https://severcon.ru/upload/iblock/111/xests87s2u24hfk4c441y4fw20z21v5d/Render_Project_Energolux_PDU_001.png",
+            "https://severcon.ru/upload/iblock/e87/2z92gmd3rvgnsw8ahkbiltcisgnadf78/Render_Project_Energolux_PDU_004.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "2641",
+          "article": "SAS09CH1-AI",
+          "name": "Energolux CHAMPERY",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 44800,
+          "photos": [
+            "https://severcon.ru/upload/iblock/55d/Render_Project_Champery_001.png",
+            "https://severcon.ru/upload/iblock/854/Render_Project_Champery_003.png",
+            "https://severcon.ru/upload/iblock/4f3/Render_Project_Champery_004.png",
+            "https://severcon.ru/upload/iblock/917/Render_Project_Champery_005.png",
+            "https://severcon.ru/upload/iblock/3eb/Render_Project_Champery_006.png",
+            "https://severcon.ru/upload/iblock/62d/ormu3ipkgy22ig8jxnxq1jeqjkj0ftaj/energolux_1.png",
+            "https://severcon.ru/upload/iblock/3d1/3jp8pilcc6myh5gwyacun90vfdpr71gf/Render_Project_Energolux_PDU_00.png",
+            "https://severcon.ru/upload/iblock/111/xests87s2u24hfk4c441y4fw20z21v5d/Render_Project_Energolux_PDU_001.png",
+            "https://severcon.ru/upload/iblock/e87/2z92gmd3rvgnsw8ahkbiltcisgnadf78/Render_Project_Energolux_PDU_004.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "2642",
+          "article": "SAS12CH1-AI",
+          "name": "Energolux CHAMPERY",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 50900,
+          "photos": [
+            "https://severcon.ru/upload/iblock/55d/Render_Project_Champery_001.png",
+            "https://severcon.ru/upload/iblock/854/Render_Project_Champery_003.png",
+            "https://severcon.ru/upload/iblock/4f3/Render_Project_Champery_004.png",
+            "https://severcon.ru/upload/iblock/917/Render_Project_Champery_005.png",
+            "https://severcon.ru/upload/iblock/3eb/Render_Project_Champery_006.png",
+            "https://severcon.ru/upload/iblock/62d/ormu3ipkgy22ig8jxnxq1jeqjkj0ftaj/energolux_1.png",
+            "https://severcon.ru/upload/iblock/3d1/3jp8pilcc6myh5gwyacun90vfdpr71gf/Render_Project_Energolux_PDU_00.png",
+            "https://severcon.ru/upload/iblock/111/xests87s2u24hfk4c441y4fw20z21v5d/Render_Project_Energolux_PDU_001.png",
+            "https://severcon.ru/upload/iblock/e87/2z92gmd3rvgnsw8ahkbiltcisgnadf78/Render_Project_Energolux_PDU_004.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "2643",
+          "article": "SAS18CH1-AI",
+          "name": "Energolux CHAMPERY",
+          "category": "Настенная сплит-система",
+          "btu": "18000",
+          "area": "до 50 м²",
+          "our_price": 86000,
+          "photos": [
+            "https://severcon.ru/upload/iblock/55d/Render_Project_Champery_001.png",
+            "https://severcon.ru/upload/iblock/854/Render_Project_Champery_003.png",
+            "https://severcon.ru/upload/iblock/4f3/Render_Project_Champery_004.png",
+            "https://severcon.ru/upload/iblock/917/Render_Project_Champery_005.png",
+            "https://severcon.ru/upload/iblock/3eb/Render_Project_Champery_006.png",
+            "https://severcon.ru/upload/iblock/62d/ormu3ipkgy22ig8jxnxq1jeqjkj0ftaj/energolux_1.png",
+            "https://severcon.ru/upload/iblock/3d1/3jp8pilcc6myh5gwyacun90vfdpr71gf/Render_Project_Energolux_PDU_00.png",
+            "https://severcon.ru/upload/iblock/111/xests87s2u24hfk4c441y4fw20z21v5d/Render_Project_Energolux_PDU_001.png",
+            "https://severcon.ru/upload/iblock/e87/2z92gmd3rvgnsw8ahkbiltcisgnadf78/Render_Project_Energolux_PDU_004.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        }
+      ]
+    },
+
+
+
+    {
+      "id": "ferrum",
+      "name": "Ferrum",
+      "models": [ {
+          "id": "15553",
+          "article": "iFIS07F3C",
+          "name": "Ferrum Force Pro DC",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 32200,
+          "photos": [
+            "https://severcon.ru/upload/iblock/95d/s6kr67o79aogwt7fw8gtwofknv9ymg86/Render_Project_Ferrum_Force_2_0_Inverter_002.png",
+            "https://severcon.ru/upload/iblock/4de/9mrsiu7ihkb8000p2xzexq9nhfa7l0wt/Render_Project_Ferrum_Force_2_0_Inverter_003.png",
+            "https://severcon.ru/upload/iblock/a3d/d3gfywl0qi1wxeaie99rfrhnko8gfpki/Render_Project_Ferrum_Force_2_0_Inverter_004.png",
+            "https://severcon.ru/upload/iblock/d07/b7ixk5nqtqtgjc2o2sdlxjj7f0f0asfq/Render_Project_Ferrum_Force_2_0_Inverter_005.png",
+            "https://severcon.ru/upload/iblock/a38/lbdmo3qxphkrd2ar8r7lbzvposmkwtkh/Render_Project_Ferrum_Force_2_0_Inverter_008.png",
+            "https://severcon.ru/upload/iblock/d83/t14m42n4ftsixhrt0pou6ndvv0uxrmg6/Render_Project_Ferrum_Force_2_0_Inverter_009.png",
+            "https://severcon.ru/upload/iblock/59a/eqjzv2my2z4d142dvil0rb4g3rd7r5qj/Render_Project_Ferrum_DC_Inv_PDU_003.png",
+            "https://severcon.ru/upload/iblock/e88/ykhqrn8bs7ke4zhen96zvzyl8gfq29eo/Render_Project_Ferrum_DC_Inv_PDU_002.png",
+            "https://severcon.ru/upload/iblock/44d/9i0dzrc8bc93d1ttxyxu2md04168khin/Render_Project_Ferrum_DC_Inv_PDU_001.png",
+            "https://severcon.ru/upload/iblock/4ea/imb90pupm8k4erpabtmaxirn2wmzh71x/Render_Project_Ferrum_DC_Inv_PDU_004.png",
+            "https://severcon.ru/upload/iblock/7ea/5xznrr9qosyc6xa601rbnbs5rgb8k1cn/Render_Project_Ferrum_FOS09F2_001.png",
+            "https://severcon.ru/upload/iblock/54a/jvjphmfly8kul3x4lu6ak9qnmayg7k1u/Render_Project_Ferrum_FOS09F2_002.png",
+            "https://severcon.ru/upload/iblock/187/75t9y31uomuusrejm2wdjz9djeuw0sqf/Render_Project_Ferrum_FOS09F2_003.png",
+            "https://severcon.ru/upload/iblock/a1c/dg8zpnq5rxtlu9qapu4rl1ggq20wmjaf/Render_Project_Ferrum_iFOS09F2_005.png",
+            "https://severcon.ru/upload/iblock/085/kuvoarhtmvt3jlks5x3ml6e7lhz4hnp6/Render_Project_Ferrum_iFOS09F2_006.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15554",
+          "article": "iFIS09F3C",
+          "name": "Ferrum Force Pro DC",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 35500,
+          "photos": [
+            "https://severcon.ru/upload/iblock/95d/s6kr67o79aogwt7fw8gtwofknv9ymg86/Render_Project_Ferrum_Force_2_0_Inverter_002.png",
+            "https://severcon.ru/upload/iblock/4de/9mrsiu7ihkb8000p2xzexq9nhfa7l0wt/Render_Project_Ferrum_Force_2_0_Inverter_003.png",
+            "https://severcon.ru/upload/iblock/a3d/d3gfywl0qi1wxeaie99rfrhnko8gfpki/Render_Project_Ferrum_Force_2_0_Inverter_004.png",
+            "https://severcon.ru/upload/iblock/d07/b7ixk5nqtqtgjc2o2sdlxjj7f0f0asfq/Render_Project_Ferrum_Force_2_0_Inverter_005.png",
+            "https://severcon.ru/upload/iblock/a38/lbdmo3qxphkrd2ar8r7lbzvposmkwtkh/Render_Project_Ferrum_Force_2_0_Inverter_008.png",
+            "https://severcon.ru/upload/iblock/d83/t14m42n4ftsixhrt0pou6ndvv0uxrmg6/Render_Project_Ferrum_Force_2_0_Inverter_009.png",
+            "https://severcon.ru/upload/iblock/59a/eqjzv2my2z4d142dvil0rb4g3rd7r5qj/Render_Project_Ferrum_DC_Inv_PDU_003.png",
+            "https://severcon.ru/upload/iblock/e88/ykhqrn8bs7ke4zhen96zvzyl8gfq29eo/Render_Project_Ferrum_DC_Inv_PDU_002.png",
+            "https://severcon.ru/upload/iblock/44d/9i0dzrc8bc93d1ttxyxu2md04168khin/Render_Project_Ferrum_DC_Inv_PDU_001.png",
+            "https://severcon.ru/upload/iblock/4ea/imb90pupm8k4erpabtmaxirn2wmzh71x/Render_Project_Ferrum_DC_Inv_PDU_004.png",
+            "https://severcon.ru/upload/iblock/7ea/5xznrr9qosyc6xa601rbnbs5rgb8k1cn/Render_Project_Ferrum_FOS09F2_001.png",
+            "https://severcon.ru/upload/iblock/54a/jvjphmfly8kul3x4lu6ak9qnmayg7k1u/Render_Project_Ferrum_FOS09F2_002.png",
+            "https://severcon.ru/upload/iblock/187/75t9y31uomuusrejm2wdjz9djeuw0sqf/Render_Project_Ferrum_FOS09F2_003.png",
+            "https://severcon.ru/upload/iblock/a1c/dg8zpnq5rxtlu9qapu4rl1ggq20wmjaf/Render_Project_Ferrum_iFOS09F2_005.png",
+            "https://severcon.ru/upload/iblock/085/kuvoarhtmvt3jlks5x3ml6e7lhz4hnp6/Render_Project_Ferrum_iFOS09F2_006.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15555",
+          "article": "iFIS12F3C",
+          "name": "Ferrum Force Pro DC",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 43000,
+          "photos": [
+            "https://severcon.ru/upload/iblock/95d/s6kr67o79aogwt7fw8gtwofknv9ymg86/Render_Project_Ferrum_Force_2_0_Inverter_002.png",
+            "https://severcon.ru/upload/iblock/4de/9mrsiu7ihkb8000p2xzexq9nhfa7l0wt/Render_Project_Ferrum_Force_2_0_Inverter_003.png",
+            "https://severcon.ru/upload/iblock/a3d/d3gfywl0qi1wxeaie99rfrhnko8gfpki/Render_Project_Ferrum_Force_2_0_Inverter_004.png",
+            "https://severcon.ru/upload/iblock/d07/b7ixk5nqtqtgjc2o2sdlxjj7f0f0asfq/Render_Project_Ferrum_Force_2_0_Inverter_005.png",
+            "https://severcon.ru/upload/iblock/a38/lbdmo3qxphkrd2ar8r7lbzvposmkwtkh/Render_Project_Ferrum_Force_2_0_Inverter_008.png",
+            "https://severcon.ru/upload/iblock/d83/t14m42n4ftsixhrt0pou6ndvv0uxrmg6/Render_Project_Ferrum_Force_2_0_Inverter_009.png",
+            "https://severcon.ru/upload/iblock/59a/eqjzv2my2z4d142dvil0rb4g3rd7r5qj/Render_Project_Ferrum_DC_Inv_PDU_003.png",
+            "https://severcon.ru/upload/iblock/e88/ykhqrn8bs7ke4zhen96zvzyl8gfq29eo/Render_Project_Ferrum_DC_Inv_PDU_002.png",
+            "https://severcon.ru/upload/iblock/44d/9i0dzrc8bc93d1ttxyxu2md04168khin/Render_Project_Ferrum_DC_Inv_PDU_001.png",
+            "https://severcon.ru/upload/iblock/4ea/imb90pupm8k4erpabtmaxirn2wmzh71x/Render_Project_Ferrum_DC_Inv_PDU_004.png",
+            "https://severcon.ru/upload/iblock/7ea/5xznrr9qosyc6xa601rbnbs5rgb8k1cn/Render_Project_Ferrum_FOS09F2_001.png",
+            "https://severcon.ru/upload/iblock/54a/jvjphmfly8kul3x4lu6ak9qnmayg7k1u/Render_Project_Ferrum_FOS09F2_002.png",
+            "https://severcon.ru/upload/iblock/187/75t9y31uomuusrejm2wdjz9djeuw0sqf/Render_Project_Ferrum_FOS09F2_003.png",
+            "https://severcon.ru/upload/iblock/a1c/dg8zpnq5rxtlu9qapu4rl1ggq20wmjaf/Render_Project_Ferrum_iFOS09F2_005.png",
+            "https://severcon.ru/upload/iblock/085/kuvoarhtmvt3jlks5x3ml6e7lhz4hnp6/Render_Project_Ferrum_iFOS09F2_006.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15556",
+          "article": "iFIS18F3C",
+          "name": "Ferrum Force Pro DC",
+          "category": "Настенная сплит-система",
+          "btu": "18000",
+          "area": "до 50 м²",
+          "our_price": 77300,
+          "photos": [
+            "https://severcon.ru/upload/iblock/95d/s6kr67o79aogwt7fw8gtwofknv9ymg86/Render_Project_Ferrum_Force_2_0_Inverter_002.png",
+            "https://severcon.ru/upload/iblock/4de/9mrsiu7ihkb8000p2xzexq9nhfa7l0wt/Render_Project_Ferrum_Force_2_0_Inverter_003.png",
+            "https://severcon.ru/upload/iblock/a3d/d3gfywl0qi1wxeaie99rfrhnko8gfpki/Render_Project_Ferrum_Force_2_0_Inverter_004.png",
+            "https://severcon.ru/upload/iblock/d07/b7ixk5nqtqtgjc2o2sdlxjj7f0f0asfq/Render_Project_Ferrum_Force_2_0_Inverter_005.png",
+            "https://severcon.ru/upload/iblock/a38/lbdmo3qxphkrd2ar8r7lbzvposmkwtkh/Render_Project_Ferrum_Force_2_0_Inverter_008.png",
+            "https://severcon.ru/upload/iblock/d83/t14m42n4ftsixhrt0pou6ndvv0uxrmg6/Render_Project_Ferrum_Force_2_0_Inverter_009.png",
+            "https://severcon.ru/upload/iblock/59a/eqjzv2my2z4d142dvil0rb4g3rd7r5qj/Render_Project_Ferrum_DC_Inv_PDU_003.png",
+            "https://severcon.ru/upload/iblock/e88/ykhqrn8bs7ke4zhen96zvzyl8gfq29eo/Render_Project_Ferrum_DC_Inv_PDU_002.png",
+            "https://severcon.ru/upload/iblock/44d/9i0dzrc8bc93d1ttxyxu2md04168khin/Render_Project_Ferrum_DC_Inv_PDU_001.png",
+            "https://severcon.ru/upload/iblock/4ea/imb90pupm8k4erpabtmaxirn2wmzh71x/Render_Project_Ferrum_DC_Inv_PDU_004.png",
+            "https://severcon.ru/upload/iblock/7ea/5xznrr9qosyc6xa601rbnbs5rgb8k1cn/Render_Project_Ferrum_FOS09F2_001.png",
+            "https://severcon.ru/upload/iblock/54a/jvjphmfly8kul3x4lu6ak9qnmayg7k1u/Render_Project_Ferrum_FOS09F2_002.png",
+            "https://severcon.ru/upload/iblock/187/75t9y31uomuusrejm2wdjz9djeuw0sqf/Render_Project_Ferrum_FOS09F2_003.png",
+            "https://severcon.ru/upload/iblock/a1c/dg8zpnq5rxtlu9qapu4rl1ggq20wmjaf/Render_Project_Ferrum_iFOS09F2_005.png",
+            "https://severcon.ru/upload/iblock/085/kuvoarhtmvt3jlks5x3ml6e7lhz4hnp6/Render_Project_Ferrum_iFOS09F2_006.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15560",
+          "article": "FIS07F3C",
+          "name": "Ferrum Force Pro",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 26300,
+          "photos": [
+            "https://severcon.ru/upload/iblock/95d/s6kr67o79aogwt7fw8gtwofknv9ymg86/Render_Project_Ferrum_Force_2_0_Inverter_002.png",
+            "https://severcon.ru/upload/iblock/4de/9mrsiu7ihkb8000p2xzexq9nhfa7l0wt/Render_Project_Ferrum_Force_2_0_Inverter_003.png",
+            "https://severcon.ru/upload/iblock/a3d/d3gfywl0qi1wxeaie99rfrhnko8gfpki/Render_Project_Ferrum_Force_2_0_Inverter_004.png",
+            "https://severcon.ru/upload/iblock/d07/b7ixk5nqtqtgjc2o2sdlxjj7f0f0asfq/Render_Project_Ferrum_Force_2_0_Inverter_005.png",
+            "https://severcon.ru/upload/iblock/a38/lbdmo3qxphkrd2ar8r7lbzvposmkwtkh/Render_Project_Ferrum_Force_2_0_Inverter_008.png",
+            "https://severcon.ru/upload/iblock/d83/t14m42n4ftsixhrt0pou6ndvv0uxrmg6/Render_Project_Ferrum_Force_2_0_Inverter_009.png",
+            "https://severcon.ru/upload/iblock/59a/eqjzv2my2z4d142dvil0rb4g3rd7r5qj/Render_Project_Ferrum_DC_Inv_PDU_003.png",
+            "https://severcon.ru/upload/iblock/e88/ykhqrn8bs7ke4zhen96zvzyl8gfq29eo/Render_Project_Ferrum_DC_Inv_PDU_002.png",
+            "https://severcon.ru/upload/iblock/44d/9i0dzrc8bc93d1ttxyxu2md04168khin/Render_Project_Ferrum_DC_Inv_PDU_001.png",
+            "https://severcon.ru/upload/iblock/4ea/imb90pupm8k4erpabtmaxirn2wmzh71x/Render_Project_Ferrum_DC_Inv_PDU_004.png",
+            "https://severcon.ru/upload/iblock/7ea/5xznrr9qosyc6xa601rbnbs5rgb8k1cn/Render_Project_Ferrum_FOS09F2_001.png",
+            "https://severcon.ru/upload/iblock/54a/jvjphmfly8kul3x4lu6ak9qnmayg7k1u/Render_Project_Ferrum_FOS09F2_002.png",
+            "https://severcon.ru/upload/iblock/187/75t9y31uomuusrejm2wdjz9djeuw0sqf/Render_Project_Ferrum_FOS09F2_003.png",
+            "https://severcon.ru/upload/iblock/a1c/dg8zpnq5rxtlu9qapu4rl1ggq20wmjaf/Render_Project_Ferrum_iFOS09F2_005.png",
+            "https://severcon.ru/upload/iblock/085/kuvoarhtmvt3jlks5x3ml6e7lhz4hnp6/Render_Project_Ferrum_iFOS09F2_006.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15561",
+          "article": "FIS09F3C",
+          "name": "Ferrum Force Pro",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 28100,
+          "photos": [
+            "https://severcon.ru/upload/iblock/95d/s6kr67o79aogwt7fw8gtwofknv9ymg86/Render_Project_Ferrum_Force_2_0_Inverter_002.png",
+            "https://severcon.ru/upload/iblock/4de/9mrsiu7ihkb8000p2xzexq9nhfa7l0wt/Render_Project_Ferrum_Force_2_0_Inverter_003.png",
+            "https://severcon.ru/upload/iblock/a3d/d3gfywl0qi1wxeaie99rfrhnko8gfpki/Render_Project_Ferrum_Force_2_0_Inverter_004.png",
+            "https://severcon.ru/upload/iblock/d07/b7ixk5nqtqtgjc2o2sdlxjj7f0f0asfq/Render_Project_Ferrum_Force_2_0_Inverter_005.png",
+            "https://severcon.ru/upload/iblock/a38/lbdmo3qxphkrd2ar8r7lbzvposmkwtkh/Render_Project_Ferrum_Force_2_0_Inverter_008.png",
+            "https://severcon.ru/upload/iblock/d83/t14m42n4ftsixhrt0pou6ndvv0uxrmg6/Render_Project_Ferrum_Force_2_0_Inverter_009.png",
+            "https://severcon.ru/upload/iblock/59a/eqjzv2my2z4d142dvil0rb4g3rd7r5qj/Render_Project_Ferrum_DC_Inv_PDU_003.png",
+            "https://severcon.ru/upload/iblock/e88/ykhqrn8bs7ke4zhen96zvzyl8gfq29eo/Render_Project_Ferrum_DC_Inv_PDU_002.png",
+            "https://severcon.ru/upload/iblock/44d/9i0dzrc8bc93d1ttxyxu2md04168khin/Render_Project_Ferrum_DC_Inv_PDU_001.png",
+            "https://severcon.ru/upload/iblock/4ea/imb90pupm8k4erpabtmaxirn2wmzh71x/Render_Project_Ferrum_DC_Inv_PDU_004.png",
+            "https://severcon.ru/upload/iblock/7ea/5xznrr9qosyc6xa601rbnbs5rgb8k1cn/Render_Project_Ferrum_FOS09F2_001.png",
+            "https://severcon.ru/upload/iblock/54a/jvjphmfly8kul3x4lu6ak9qnmayg7k1u/Render_Project_Ferrum_FOS09F2_002.png",
+            "https://severcon.ru/upload/iblock/187/75t9y31uomuusrejm2wdjz9djeuw0sqf/Render_Project_Ferrum_FOS09F2_003.png",
+            "https://severcon.ru/upload/iblock/a1c/dg8zpnq5rxtlu9qapu4rl1ggq20wmjaf/Render_Project_Ferrum_iFOS09F2_005.png",
+            "https://severcon.ru/upload/iblock/085/kuvoarhtmvt3jlks5x3ml6e7lhz4hnp6/Render_Project_Ferrum_iFOS09F2_006.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15562",
+          "article": "FIS12F3C",
+          "name": "Ferrum Force Pro",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 38400,
+          "photos": [
+            "https://severcon.ru/upload/iblock/95d/s6kr67o79aogwt7fw8gtwofknv9ymg86/Render_Project_Ferrum_Force_2_0_Inverter_002.png",
+            "https://severcon.ru/upload/iblock/4de/9mrsiu7ihkb8000p2xzexq9nhfa7l0wt/Render_Project_Ferrum_Force_2_0_Inverter_003.png",
+            "https://severcon.ru/upload/iblock/a3d/d3gfywl0qi1wxeaie99rfrhnko8gfpki/Render_Project_Ferrum_Force_2_0_Inverter_004.png",
+            "https://severcon.ru/upload/iblock/d07/b7ixk5nqtqtgjc2o2sdlxjj7f0f0asfq/Render_Project_Ferrum_Force_2_0_Inverter_005.png",
+            "https://severcon.ru/upload/iblock/a38/lbdmo3qxphkrd2ar8r7lbzvposmkwtkh/Render_Project_Ferrum_Force_2_0_Inverter_008.png",
+            "https://severcon.ru/upload/iblock/d83/t14m42n4ftsixhrt0pou6ndvv0uxrmg6/Render_Project_Ferrum_Force_2_0_Inverter_009.png",
+            "https://severcon.ru/upload/iblock/59a/eqjzv2my2z4d142dvil0rb4g3rd7r5qj/Render_Project_Ferrum_DC_Inv_PDU_003.png",
+            "https://severcon.ru/upload/iblock/e88/ykhqrn8bs7ke4zhen96zvzyl8gfq29eo/Render_Project_Ferrum_DC_Inv_PDU_002.png",
+            "https://severcon.ru/upload/iblock/44d/9i0dzrc8bc93d1ttxyxu2md04168khin/Render_Project_Ferrum_DC_Inv_PDU_001.png",
+            "https://severcon.ru/upload/iblock/4ea/imb90pupm8k4erpabtmaxirn2wmzh71x/Render_Project_Ferrum_DC_Inv_PDU_004.png",
+            "https://severcon.ru/upload/iblock/7ea/5xznrr9qosyc6xa601rbnbs5rgb8k1cn/Render_Project_Ferrum_FOS09F2_001.png",
+            "https://severcon.ru/upload/iblock/54a/jvjphmfly8kul3x4lu6ak9qnmayg7k1u/Render_Project_Ferrum_FOS09F2_002.png",
+            "https://severcon.ru/upload/iblock/187/75t9y31uomuusrejm2wdjz9djeuw0sqf/Render_Project_Ferrum_FOS09F2_003.png",
+            "https://severcon.ru/upload/iblock/a1c/dg8zpnq5rxtlu9qapu4rl1ggq20wmjaf/Render_Project_Ferrum_iFOS09F2_005.png",
+            "https://severcon.ru/upload/iblock/085/kuvoarhtmvt3jlks5x3ml6e7lhz4hnp6/Render_Project_Ferrum_iFOS09F2_006.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11884",
+          "article": "FIS09A3",
+          "name": "FeRRUM Trust",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 25500,
+          "photos": [
+            "https://severcon.ru/upload/iblock/95d/s6kr67o79aogwt7fw8gtwofknv9ymg86/Render_Project_Ferrum_Force_2_0_Inverter_002.png",
+            "https://severcon.ru/upload/iblock/4de/9mrsiu7ihkb8000p2xzexq9nhfa7l0wt/Render_Project_Ferrum_Force_2_0_Inverter_003.png",
+            "https://severcon.ru/upload/iblock/a3d/d3gfywl0qi1wxeaie99rfrhnko8gfpki/Render_Project_Ferrum_Force_2_0_Inverter_004.png",
+            "https://severcon.ru/upload/iblock/d07/b7ixk5nqtqtgjc2o2sdlxjj7f0f0asfq/Render_Project_Ferrum_Force_2_0_Inverter_005.png",
+            "https://severcon.ru/upload/iblock/a38/lbdmo3qxphkrd2ar8r7lbzvposmkwtkh/Render_Project_Ferrum_Force_2_0_Inverter_008.png",
+            "https://severcon.ru/upload/iblock/d83/t14m42n4ftsixhrt0pou6ndvv0uxrmg6/Render_Project_Ferrum_Force_2_0_Inverter_009.png",
+            "https://severcon.ru/upload/iblock/59a/eqjzv2my2z4d142dvil0rb4g3rd7r5qj/Render_Project_Ferrum_DC_Inv_PDU_003.png",
+            "https://severcon.ru/upload/iblock/e88/ykhqrn8bs7ke4zhen96zvzyl8gfq29eo/Render_Project_Ferrum_DC_Inv_PDU_002.png",
+            "https://severcon.ru/upload/iblock/44d/9i0dzrc8bc93d1ttxyxu2md04168khin/Render_Project_Ferrum_DC_Inv_PDU_001.png",
+            "https://severcon.ru/upload/iblock/4ea/imb90pupm8k4erpabtmaxirn2wmzh71x/Render_Project_Ferrum_DC_Inv_PDU_004.png",
+            "https://severcon.ru/upload/iblock/7ea/5xznrr9qosyc6xa601rbnbs5rgb8k1cn/Render_Project_Ferrum_FOS09F2_001.png",
+            "https://severcon.ru/upload/iblock/54a/jvjphmfly8kul3x4lu6ak9qnmayg7k1u/Render_Project_Ferrum_FOS09F2_002.png",
+            "https://severcon.ru/upload/iblock/187/75t9y31uomuusrejm2wdjz9djeuw0sqf/Render_Project_Ferrum_FOS09F2_003.png",
+            "https://severcon.ru/upload/iblock/a1c/dg8zpnq5rxtlu9qapu4rl1ggq20wmjaf/Render_Project_Ferrum_iFOS09F2_005.png",
+            "https://severcon.ru/upload/iblock/085/kuvoarhtmvt3jlks5x3ml6e7lhz4hnp6/Render_Project_Ferrum_iFOS09F2_006.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11885",
+          "article": "FIS12A3",
+          "name": "FeRRUM Trust",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 26700,
+          "photos": [
+            "https://severcon.ru/upload/iblock/95d/s6kr67o79aogwt7fw8gtwofknv9ymg86/Render_Project_Ferrum_Force_2_0_Inverter_002.png",
+            "https://severcon.ru/upload/iblock/4de/9mrsiu7ihkb8000p2xzexq9nhfa7l0wt/Render_Project_Ferrum_Force_2_0_Inverter_003.png",
+            "https://severcon.ru/upload/iblock/a3d/d3gfywl0qi1wxeaie99rfrhnko8gfpki/Render_Project_Ferrum_Force_2_0_Inverter_004.png",
+            "https://severcon.ru/upload/iblock/d07/b7ixk5nqtqtgjc2o2sdlxjj7f0f0asfq/Render_Project_Ferrum_Force_2_0_Inverter_005.png",
+            "https://severcon.ru/upload/iblock/a38/lbdmo3qxphkrd2ar8r7lbzvposmkwtkh/Render_Project_Ferrum_Force_2_0_Inverter_008.png",
+            "https://severcon.ru/upload/iblock/d83/t14m42n4ftsixhrt0pou6ndvv0uxrmg6/Render_Project_Ferrum_Force_2_0_Inverter_009.png",
+            "https://severcon.ru/upload/iblock/59a/eqjzv2my2z4d142dvil0rb4g3rd7r5qj/Render_Project_Ferrum_DC_Inv_PDU_003.png",
+            "https://severcon.ru/upload/iblock/e88/ykhqrn8bs7ke4zhen96zvzyl8gfq29eo/Render_Project_Ferrum_DC_Inv_PDU_002.png",
+            "https://severcon.ru/upload/iblock/44d/9i0dzrc8bc93d1ttxyxu2md04168khin/Render_Project_Ferrum_DC_Inv_PDU_001.png",
+            "https://severcon.ru/upload/iblock/4ea/imb90pupm8k4erpabtmaxirn2wmzh71x/Render_Project_Ferrum_DC_Inv_PDU_004.png",
+            "https://severcon.ru/upload/iblock/7ea/5xznrr9qosyc6xa601rbnbs5rgb8k1cn/Render_Project_Ferrum_FOS09F2_001.png",
+            "https://severcon.ru/upload/iblock/54a/jvjphmfly8kul3x4lu6ak9qnmayg7k1u/Render_Project_Ferrum_FOS09F2_002.png",
+            "https://severcon.ru/upload/iblock/187/75t9y31uomuusrejm2wdjz9djeuw0sqf/Render_Project_Ferrum_FOS09F2_003.png",
+            "https://severcon.ru/upload/iblock/a1c/dg8zpnq5rxtlu9qapu4rl1ggq20wmjaf/Render_Project_Ferrum_iFOS09F2_005.png",
+            "https://severcon.ru/upload/iblock/085/kuvoarhtmvt3jlks5x3ml6e7lhz4hnp6/Render_Project_Ferrum_iFOS09F2_006.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        }
+      ]
+    },
+
+
+
+    {
+      "id": "coolberg",
+      "name": "Coolberg",
+      "models": [
+        {
+          "id": "15998",
+          "article": "CI07W1_IN",
+          "name": "COOLBERG WAVE DC",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 27300,
+          "photos": [
+            "https://severcon.ru/upload/iblock/f59/at67v8mbu28lkl6iqucxqkw0krkv4k5r/COOLBERG_WAVE_2.png",
+            "https://severcon.ru/upload/iblock/4ef/3fjzyam28h2ej2of4pvsd90gfou3xir9/COOLBERG_WAVE_3.png",
+            "https://severcon.ru/upload/iblock/bdd/zat3ylo3jiqlob36a2stoy06wopg7ihl/COOLBERG_WAVE_pult_4.png",
+            "https://severcon.ru/upload/iblock/183/4ecshclc2mk3wzolvmx1e9mioczshnx1/COOLBERG_WAVE_OUT_5.png",
+            "https://severcon.ru/upload/iblock/6cc/uuiemo4sgqnf25uuv79etfl1l3t5lzeb/COOLBERG_WAVE_OUT_6.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15999",
+          "article": "CI09W1_IN",
+          "name": "COOLBERG WAVE DC",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 28300,
+          "photos": [
+            "https://severcon.ru/upload/iblock/f59/at67v8mbu28lkl6iqucxqkw0krkv4k5r/COOLBERG_WAVE_2.png",
+            "https://severcon.ru/upload/iblock/4ef/3fjzyam28h2ej2of4pvsd90gfou3xir9/COOLBERG_WAVE_3.png",
+            "https://severcon.ru/upload/iblock/bdd/zat3ylo3jiqlob36a2stoy06wopg7ihl/COOLBERG_WAVE_pult_4.png",
+            "https://severcon.ru/upload/iblock/183/4ecshclc2mk3wzolvmx1e9mioczshnx1/COOLBERG_WAVE_OUT_5.png",
+            "https://severcon.ru/upload/iblock/6cc/uuiemo4sgqnf25uuv79etfl1l3t5lzeb/COOLBERG_WAVE_OUT_6.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "16000",
+          "article": "CI12W1_IN",
+          "name": "COOLBERG WAVE DC",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 34300,
+          "photos": [
+            "https://severcon.ru/upload/iblock/f59/at67v8mbu28lkl6iqucxqkw0krkv4k5r/COOLBERG_WAVE_2.png",
+            "https://severcon.ru/upload/iblock/4ef/3fjzyam28h2ej2of4pvsd90gfou3xir9/COOLBERG_WAVE_3.png",
+            "https://severcon.ru/upload/iblock/bdd/zat3ylo3jiqlob36a2stoy06wopg7ihl/COOLBERG_WAVE_pult_4.png",
+            "https://severcon.ru/upload/iblock/183/4ecshclc2mk3wzolvmx1e9mioczshnx1/COOLBERG_WAVE_OUT_5.png",
+            "https://severcon.ru/upload/iblock/6cc/uuiemo4sgqnf25uuv79etfl1l3t5lzeb/COOLBERG_WAVE_OUT_6.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "16001",
+          "article": "CI18W1_IN",
+          "name": "COOLBERG WAVE DC",
+          "category": "Настенная сплит-система",
+          "btu": "18000",
+          "area": "до 50 м²",
+          "our_price": 57400,
+          "photos": [
+            "https://severcon.ru/upload/iblock/f59/at67v8mbu28lkl6iqucxqkw0krkv4k5r/COOLBERG_WAVE_2.png",
+            "https://severcon.ru/upload/iblock/4ef/3fjzyam28h2ej2of4pvsd90gfou3xir9/COOLBERG_WAVE_3.png",
+            "https://severcon.ru/upload/iblock/bdd/zat3ylo3jiqlob36a2stoy06wopg7ihl/COOLBERG_WAVE_pult_4.png",
+            "https://severcon.ru/upload/iblock/183/4ecshclc2mk3wzolvmx1e9mioczshnx1/COOLBERG_WAVE_OUT_5.png",
+            "https://severcon.ru/upload/iblock/6cc/uuiemo4sgqnf25uuv79etfl1l3t5lzeb/COOLBERG_WAVE_OUT_6.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "16007",
+          "article": "CI07W1_IN",
+          "name": "COOLBERG WAVE",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 20200,
+          "photos": [
+            "https://severcon.ru/upload/iblock/f59/at67v8mbu28lkl6iqucxqkw0krkv4k5r/COOLBERG_WAVE_2.png",
+            "https://severcon.ru/upload/iblock/4ef/3fjzyam28h2ej2of4pvsd90gfou3xir9/COOLBERG_WAVE_3.png",
+            "https://severcon.ru/upload/iblock/bdd/zat3ylo3jiqlob36a2stoy06wopg7ihl/COOLBERG_WAVE_pult_4.png",
+            "https://severcon.ru/upload/iblock/183/4ecshclc2mk3wzolvmx1e9mioczshnx1/COOLBERG_WAVE_OUT_5.png",
+            "https://severcon.ru/upload/iblock/6cc/uuiemo4sgqnf25uuv79etfl1l3t5lzeb/COOLBERG_WAVE_OUT_6.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "16008",
+          "article": "CI09W1_IN",
+          "name": "COOLBERG WAVE",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 22000,
+          "photos": [
+            "https://severcon.ru/upload/iblock/f59/at67v8mbu28lkl6iqucxqkw0krkv4k5r/COOLBERG_WAVE_2.png",
+            "https://severcon.ru/upload/iblock/4ef/3fjzyam28h2ej2of4pvsd90gfou3xir9/COOLBERG_WAVE_3.png",
+            "https://severcon.ru/upload/iblock/bdd/zat3ylo3jiqlob36a2stoy06wopg7ihl/COOLBERG_WAVE_pult_4.png",
+            "https://severcon.ru/upload/iblock/183/4ecshclc2mk3wzolvmx1e9mioczshnx1/COOLBERG_WAVE_OUT_5.png",
+            "https://severcon.ru/upload/iblock/6cc/uuiemo4sgqnf25uuv79etfl1l3t5lzeb/COOLBERG_WAVE_OUT_6.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "16009",
+          "article": "CI12W1_IN",
+          "name": "COOLBERG WAVE",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 30800,
+          "photos": [
+            "https://severcon.ru/upload/iblock/f59/at67v8mbu28lkl6iqucxqkw0krkv4k5r/COOLBERG_WAVE_2.png",
+            "https://severcon.ru/upload/iblock/4ef/3fjzyam28h2ej2of4pvsd90gfou3xir9/COOLBERG_WAVE_3.png",
+            "https://severcon.ru/upload/iblock/bdd/zat3ylo3jiqlob36a2stoy06wopg7ihl/COOLBERG_WAVE_pult_4.png",
+            "https://severcon.ru/upload/iblock/183/4ecshclc2mk3wzolvmx1e9mioczshnx1/COOLBERG_WAVE_OUT_5.png",
+            "https://severcon.ru/upload/iblock/6cc/uuiemo4sgqnf25uuv79etfl1l3t5lzeb/COOLBERG_WAVE_OUT_6.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11940",
+          "article": "CI-07R1_IN",
+          "name": "COOLBERG Runa",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 26600,
+          "photos": [
+            "https://severcon.ru/upload/iblock/611/0lkxovn1m4l40dcrcbgomvah05s48m59/COOLBERG_RUNA_INV_07_1.png",
+            "https://severcon.ru/upload/iblock/833/65dre69jmzhr12bc8g5ck1b08htkgv3o/COOLBERG_RUNA_INV_07_2.png",
+            "https://severcon.ru/upload/iblock/f1c/vift3fy4q0rjovi4lqkzre5nt2on63wr/COOLBERG_RUNA_INV_07_3.png",
+            "https://severcon.ru/upload/iblock/a96/mub2p31mebgtx5u5v4aoiigrnji8gki4/COOLBERG_RUNA_INV_07_4.png",
+            "https://severcon.ru/upload/iblock/be9/idvepir8k607qie0jru01nsaiextqpnx/Render_Project_Collberg_Runa_Inv_001.png",
+            "https://severcon.ru/upload/iblock/502/r93wspbr56oaglo1x20pm1brf8c0pk8e/Render_Project_Collberg_Runa_Inv_002.png",
+            "https://severcon.ru/upload/iblock/b62/upki32s6kxnmm6iwxfm7gxhpkbaysg3j/Render_Project_Collberg_Runa_Inv_003.png",
+            "https://severcon.ru/upload/iblock/338/233zj6xc8fmgmwkm9rbmiul52grap0rt/Render_Project_Collberg_Runa_Inv_004.png",
+            "https://severcon.ru/upload/iblock/4c2/u15rzpt1fxiau5l91ng2n3sqirg3vgws/Render_Project_Collberg_Runa_Inv_005.png",
+            "https://severcon.ru/upload/iblock/b8a/lstmpww8atz5zlvzuvgelp3rd2ls00db/Render_Project_Collberg_Runa_Inv_007.png",
+            "https://severcon.ru/upload/iblock/f03/zcu5wootyjr4z035cuzcwh2va0fnkghy/pult_1.png",
+            "https://severcon.ru/upload/iblock/f7f/qpml4j62ftq5tc9ox7k3l9tz67f0k7qa/pult_2.png",
+            "https://severcon.ru/upload/iblock/394/g8ouc305m1cte01zhbxd27zmm857w5wp/coolberg_1.png",
+            "https://severcon.ru/upload/iblock/ada/wr9jv35sly1pl0ace2bhdc18kg5soo24/coolberg_2.png",
+            "https://severcon.ru/upload/iblock/944/nxvdase1yz2oduim3f13lnhqpaoyithu/coolberg_3.png",
+            "https://severcon.ru/upload/iblock/879/964zwpswf4k6oiy287jgx3sqrdxnnibp/coolberg_5.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11941",
+          "article": "CI-09R1_IN",
+          "name": "COOLBERG Runa",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 28600,
+          "photos": [
+            "https://severcon.ru/upload/iblock/611/0lkxovn1m4l40dcrcbgomvah05s48m59/COOLBERG_RUNA_INV_07_1.png",
+            "https://severcon.ru/upload/iblock/833/65dre69jmzhr12bc8g5ck1b08htkgv3o/COOLBERG_RUNA_INV_07_2.png",
+            "https://severcon.ru/upload/iblock/f1c/vift3fy4q0rjovi4lqkzre5nt2on63wr/COOLBERG_RUNA_INV_07_3.png",
+            "https://severcon.ru/upload/iblock/a96/mub2p31mebgtx5u5v4aoiigrnji8gki4/COOLBERG_RUNA_INV_07_4.png",
+            "https://severcon.ru/upload/iblock/be9/idvepir8k607qie0jru01nsaiextqpnx/Render_Project_Collberg_Runa_Inv_001.png",
+            "https://severcon.ru/upload/iblock/502/r93wspbr56oaglo1x20pm1brf8c0pk8e/Render_Project_Collberg_Runa_Inv_002.png",
+            "https://severcon.ru/upload/iblock/b62/upki32s6kxnmm6iwxfm7gxhpkbaysg3j/Render_Project_Collberg_Runa_Inv_003.png",
+            "https://severcon.ru/upload/iblock/338/233zj6xc8fmgmwkm9rbmiul52grap0rt/Render_Project_Collberg_Runa_Inv_004.png",
+            "https://severcon.ru/upload/iblock/4c2/u15rzpt1fxiau5l91ng2n3sqirg3vgws/Render_Project_Collberg_Runa_Inv_005.png",
+            "https://severcon.ru/upload/iblock/b8a/lstmpww8atz5zlvzuvgelp3rd2ls00db/Render_Project_Collberg_Runa_Inv_007.png",
+            "https://severcon.ru/upload/iblock/f03/zcu5wootyjr4z035cuzcwh2va0fnkghy/pult_1.png",
+            "https://severcon.ru/upload/iblock/f7f/qpml4j62ftq5tc9ox7k3l9tz67f0k7qa/pult_2.png",
+            "https://severcon.ru/upload/iblock/394/g8ouc305m1cte01zhbxd27zmm857w5wp/coolberg_1.png",
+            "https://severcon.ru/upload/iblock/ada/wr9jv35sly1pl0ace2bhdc18kg5soo24/coolberg_2.png",
+            "https://severcon.ru/upload/iblock/944/nxvdase1yz2oduim3f13lnhqpaoyithu/coolberg_3.png",
+            "https://severcon.ru/upload/iblock/879/964zwpswf4k6oiy287jgx3sqrdxnnibp/coolberg_5.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11942",
+          "article": "CI-12R1_IN",
+          "name": "COOLBERG Runa",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 33700,
+          "photos": [
+            "https://severcon.ru/upload/iblock/611/0lkxovn1m4l40dcrcbgomvah05s48m59/COOLBERG_RUNA_INV_07_1.png",
+            "https://severcon.ru/upload/iblock/833/65dre69jmzhr12bc8g5ck1b08htkgv3o/COOLBERG_RUNA_INV_07_2.png",
+            "https://severcon.ru/upload/iblock/f1c/vift3fy4q0rjovi4lqkzre5nt2on63wr/COOLBERG_RUNA_INV_07_3.png",
+            "https://severcon.ru/upload/iblock/a96/mub2p31mebgtx5u5v4aoiigrnji8gki4/COOLBERG_RUNA_INV_07_4.png",
+            "https://severcon.ru/upload/iblock/be9/idvepir8k607qie0jru01nsaiextqpnx/Render_Project_Collberg_Runa_Inv_001.png",
+            "https://severcon.ru/upload/iblock/502/r93wspbr56oaglo1x20pm1brf8c0pk8e/Render_Project_Collberg_Runa_Inv_002.png",
+            "https://severcon.ru/upload/iblock/b62/upki32s6kxnmm6iwxfm7gxhpkbaysg3j/Render_Project_Collberg_Runa_Inv_003.png",
+            "https://severcon.ru/upload/iblock/338/233zj6xc8fmgmwkm9rbmiul52grap0rt/Render_Project_Collberg_Runa_Inv_004.png",
+            "https://severcon.ru/upload/iblock/4c2/u15rzpt1fxiau5l91ng2n3sqirg3vgws/Render_Project_Collberg_Runa_Inv_005.png",
+            "https://severcon.ru/upload/iblock/b8a/lstmpww8atz5zlvzuvgelp3rd2ls00db/Render_Project_Collberg_Runa_Inv_007.png",
+            "https://severcon.ru/upload/iblock/f03/zcu5wootyjr4z035cuzcwh2va0fnkghy/pult_1.png",
+            "https://severcon.ru/upload/iblock/f7f/qpml4j62ftq5tc9ox7k3l9tz67f0k7qa/pult_2.png",
+            "https://severcon.ru/upload/iblock/394/g8ouc305m1cte01zhbxd27zmm857w5wp/coolberg_1.png",
+            "https://severcon.ru/upload/iblock/ada/wr9jv35sly1pl0ace2bhdc18kg5soo24/coolberg_2.png",
+            "https://severcon.ru/upload/iblock/944/nxvdase1yz2oduim3f13lnhqpaoyithu/coolberg_3.png",
+            "https://severcon.ru/upload/iblock/879/964zwpswf4k6oiy287jgx3sqrdxnnibp/coolberg_5.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11943",
+          "article": "CI-18R1_IN",
+          "name": "COOLBERG Runa",
+          "category": "Настенная сплит-система",
+          "btu": "18000",
+          "area": "до 50 м²",
+          "our_price": 56700,
+          "photos": [
+            "https://severcon.ru/upload/iblock/611/0lkxovn1m4l40dcrcbgomvah05s48m59/COOLBERG_RUNA_INV_07_1.png",
+            "https://severcon.ru/upload/iblock/833/65dre69jmzhr12bc8g5ck1b08htkgv3o/COOLBERG_RUNA_INV_07_2.png",
+            "https://severcon.ru/upload/iblock/f1c/vift3fy4q0rjovi4lqkzre5nt2on63wr/COOLBERG_RUNA_INV_07_3.png",
+            "https://severcon.ru/upload/iblock/a96/mub2p31mebgtx5u5v4aoiigrnji8gki4/COOLBERG_RUNA_INV_07_4.png",
+            "https://severcon.ru/upload/iblock/be9/idvepir8k607qie0jru01nsaiextqpnx/Render_Project_Collberg_Runa_Inv_001.png",
+            "https://severcon.ru/upload/iblock/502/r93wspbr56oaglo1x20pm1brf8c0pk8e/Render_Project_Collberg_Runa_Inv_002.png",
+            "https://severcon.ru/upload/iblock/b62/upki32s6kxnmm6iwxfm7gxhpkbaysg3j/Render_Project_Collberg_Runa_Inv_003.png",
+            "https://severcon.ru/upload/iblock/338/233zj6xc8fmgmwkm9rbmiul52grap0rt/Render_Project_Collberg_Runa_Inv_004.png",
+            "https://severcon.ru/upload/iblock/4c2/u15rzpt1fxiau5l91ng2n3sqirg3vgws/Render_Project_Collberg_Runa_Inv_005.png",
+            "https://severcon.ru/upload/iblock/b8a/lstmpww8atz5zlvzuvgelp3rd2ls00db/Render_Project_Collberg_Runa_Inv_007.png",
+            "https://severcon.ru/upload/iblock/f03/zcu5wootyjr4z035cuzcwh2va0fnkghy/pult_1.png",
+            "https://severcon.ru/upload/iblock/f7f/qpml4j62ftq5tc9ox7k3l9tz67f0k7qa/pult_2.png",
+            "https://severcon.ru/upload/iblock/394/g8ouc305m1cte01zhbxd27zmm857w5wp/coolberg_1.png",
+            "https://severcon.ru/upload/iblock/ada/wr9jv35sly1pl0ace2bhdc18kg5soo24/coolberg_2.png",
+            "https://severcon.ru/upload/iblock/944/nxvdase1yz2oduim3f13lnhqpaoyithu/coolberg_3.png",
+            "https://severcon.ru/upload/iblock/879/964zwpswf4k6oiy287jgx3sqrdxnnibp/coolberg_5.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11945",
+          "article": "CS-07R1_IN",
+          "name": "COOLBERG Runa",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 20700,
+          "photos": [
+            "https://severcon.ru/upload/iblock/611/0lkxovn1m4l40dcrcbgomvah05s48m59/COOLBERG_RUNA_INV_07_1.png",
+            "https://severcon.ru/upload/iblock/833/65dre69jmzhr12bc8g5ck1b08htkgv3o/COOLBERG_RUNA_INV_07_2.png",
+            "https://severcon.ru/upload/iblock/f1c/vift3fy4q0rjovi4lqkzre5nt2on63wr/COOLBERG_RUNA_INV_07_3.png",
+            "https://severcon.ru/upload/iblock/a96/mub2p31mebgtx5u5v4aoiigrnji8gki4/COOLBERG_RUNA_INV_07_4.png",
+            "https://severcon.ru/upload/iblock/be9/idvepir8k607qie0jru01nsaiextqpnx/Render_Project_Collberg_Runa_Inv_001.png",
+            "https://severcon.ru/upload/iblock/502/r93wspbr56oaglo1x20pm1brf8c0pk8e/Render_Project_Collberg_Runa_Inv_002.png",
+            "https://severcon.ru/upload/iblock/b62/upki32s6kxnmm6iwxfm7gxhpkbaysg3j/Render_Project_Collberg_Runa_Inv_003.png",
+            "https://severcon.ru/upload/iblock/338/233zj6xc8fmgmwkm9rbmiul52grap0rt/Render_Project_Collberg_Runa_Inv_004.png",
+            "https://severcon.ru/upload/iblock/4c2/u15rzpt1fxiau5l91ng2n3sqirg3vgws/Render_Project_Collberg_Runa_Inv_005.png",
+            "https://severcon.ru/upload/iblock/b8a/lstmpww8atz5zlvzuvgelp3rd2ls00db/Render_Project_Collberg_Runa_Inv_007.png",
+            "https://severcon.ru/upload/iblock/f03/zcu5wootyjr4z035cuzcwh2va0fnkghy/pult_1.png",
+            "https://severcon.ru/upload/iblock/f7f/qpml4j62ftq5tc9ox7k3l9tz67f0k7qa/pult_2.png",
+            "https://severcon.ru/upload/iblock/394/g8ouc305m1cte01zhbxd27zmm857w5wp/coolberg_1.png",
+            "https://severcon.ru/upload/iblock/ada/wr9jv35sly1pl0ace2bhdc18kg5soo24/coolberg_2.png",
+            "https://severcon.ru/upload/iblock/944/nxvdase1yz2oduim3f13lnhqpaoyithu/coolberg_3.png",
+            "https://severcon.ru/upload/iblock/879/964zwpswf4k6oiy287jgx3sqrdxnnibp/coolberg_5.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11946",
+          "article": "CS-09R1_IN",
+          "name": "COOLBERG Runa",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 22500,
+          "photos": [
+            "https://severcon.ru/upload/iblock/611/0lkxovn1m4l40dcrcbgomvah05s48m59/COOLBERG_RUNA_INV_07_1.png",
+            "https://severcon.ru/upload/iblock/833/65dre69jmzhr12bc8g5ck1b08htkgv3o/COOLBERG_RUNA_INV_07_2.png",
+            "https://severcon.ru/upload/iblock/f1c/vift3fy4q0rjovi4lqkzre5nt2on63wr/COOLBERG_RUNA_INV_07_3.png",
+            "https://severcon.ru/upload/iblock/a96/mub2p31mebgtx5u5v4aoiigrnji8gki4/COOLBERG_RUNA_INV_07_4.png",
+            "https://severcon.ru/upload/iblock/be9/idvepir8k607qie0jru01nsaiextqpnx/Render_Project_Collberg_Runa_Inv_001.png",
+            "https://severcon.ru/upload/iblock/502/r93wspbr56oaglo1x20pm1brf8c0pk8e/Render_Project_Collberg_Runa_Inv_002.png",
+            "https://severcon.ru/upload/iblock/b62/upki32s6kxnmm6iwxfm7gxhpkbaysg3j/Render_Project_Collberg_Runa_Inv_003.png",
+            "https://severcon.ru/upload/iblock/338/233zj6xc8fmgmwkm9rbmiul52grap0rt/Render_Project_Collberg_Runa_Inv_004.png",
+            "https://severcon.ru/upload/iblock/4c2/u15rzpt1fxiau5l91ng2n3sqirg3vgws/Render_Project_Collberg_Runa_Inv_005.png",
+            "https://severcon.ru/upload/iblock/b8a/lstmpww8atz5zlvzuvgelp3rd2ls00db/Render_Project_Collberg_Runa_Inv_007.png",
+            "https://severcon.ru/upload/iblock/f03/zcu5wootyjr4z035cuzcwh2va0fnkghy/pult_1.png",
+            "https://severcon.ru/upload/iblock/f7f/qpml4j62ftq5tc9ox7k3l9tz67f0k7qa/pult_2.png",
+            "https://severcon.ru/upload/iblock/394/g8ouc305m1cte01zhbxd27zmm857w5wp/coolberg_1.png",
+            "https://severcon.ru/upload/iblock/ada/wr9jv35sly1pl0ace2bhdc18kg5soo24/coolberg_2.png",
+            "https://severcon.ru/upload/iblock/944/nxvdase1yz2oduim3f13lnhqpaoyithu/coolberg_3.png",
+            "https://severcon.ru/upload/iblock/879/964zwpswf4k6oiy287jgx3sqrdxnnibp/coolberg_5.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11947",
+          "article": "CS-12R1_IN",
+          "name": "COOLBERG Runa",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 31300,
+          "photos": [
+            "https://severcon.ru/upload/iblock/611/0lkxovn1m4l40dcrcbgomvah05s48m59/COOLBERG_RUNA_INV_07_1.png",
+            "https://severcon.ru/upload/iblock/833/65dre69jmzhr12bc8g5ck1b08htkgv3o/COOLBERG_RUNA_INV_07_2.png",
+            "https://severcon.ru/upload/iblock/f1c/vift3fy4q0rjovi4lqkzre5nt2on63wr/COOLBERG_RUNA_INV_07_3.png",
+            "https://severcon.ru/upload/iblock/a96/mub2p31mebgtx5u5v4aoiigrnji8gki4/COOLBERG_RUNA_INV_07_4.png",
+            "https://severcon.ru/upload/iblock/be9/idvepir8k607qie0jru01nsaiextqpnx/Render_Project_Collberg_Runa_Inv_001.png",
+            "https://severcon.ru/upload/iblock/502/r93wspbr56oaglo1x20pm1brf8c0pk8e/Render_Project_Collberg_Runa_Inv_002.png",
+            "https://severcon.ru/upload/iblock/b62/upki32s6kxnmm6iwxfm7gxhpkbaysg3j/Render_Project_Collberg_Runa_Inv_003.png",
+            "https://severcon.ru/upload/iblock/338/233zj6xc8fmgmwkm9rbmiul52grap0rt/Render_Project_Collberg_Runa_Inv_004.png",
+            "https://severcon.ru/upload/iblock/4c2/u15rzpt1fxiau5l91ng2n3sqirg3vgws/Render_Project_Collberg_Runa_Inv_005.png",
+            "https://severcon.ru/upload/iblock/b8a/lstmpww8atz5zlvzuvgelp3rd2ls00db/Render_Project_Collberg_Runa_Inv_007.png",
+            "https://severcon.ru/upload/iblock/f03/zcu5wootyjr4z035cuzcwh2va0fnkghy/pult_1.png",
+            "https://severcon.ru/upload/iblock/f7f/qpml4j62ftq5tc9ox7k3l9tz67f0k7qa/pult_2.png",
+            "https://severcon.ru/upload/iblock/394/g8ouc305m1cte01zhbxd27zmm857w5wp/coolberg_1.png",
+            "https://severcon.ru/upload/iblock/ada/wr9jv35sly1pl0ace2bhdc18kg5soo24/coolberg_2.png",
+            "https://severcon.ru/upload/iblock/944/nxvdase1yz2oduim3f13lnhqpaoyithu/coolberg_3.png",
+            "https://severcon.ru/upload/iblock/879/964zwpswf4k6oiy287jgx3sqrdxnnibp/coolberg_5.png"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        }
+      ]
+    },
+
+
+
+    {
+      "id": "kalashnikov",
+      "name": "Kalashnikov",
+      "models": [
+        {
+          "id": "15574",
+          "article": "KVAC-I-07IN-PT1",
+          "name": "KALASHNIKOV Патриот",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 37300,
+          "photos": [
+            "https://severcon.ru/upload/iblock/b54/1stvam1u5evdnk0bg8zs0455koop2a1n/Render_Project_Kalashnikov_Patriot_002.png",
+            "https://severcon.ru/upload/iblock/474/y38rh4rke924d2shrbaqto1m1wohwlc0/Render_Project_Kalashnikov_Patriot_003.png",
+            "https://severcon.ru/upload/iblock/c5d/8ntidrcb222rbqwqjvo47hiv6i717ivw/Render_Project_Kalashnikov_Patriot_004.png",
+            "https://severcon.ru/upload/iblock/c6f/tyhp0u9dut77lpcoj1wciqy7jsub5q9h/Render_Project_Kalashnikov_Patriot_005.png",
+            "https://severcon.ru/upload/iblock/1fb/5shna77wihh5au889t2zoeuj3niuoghk/Render_Project_Kalashnikov_Patriot_006.png",
+            "https://severcon.ru/upload/iblock/399/0rsj7ip3t6jxeuo45ct0739gjby0erar/Render_Project_Kalashnikov_Patriot_008.png",
+            "https://severcon.ru/upload/iblock/510/jpfm0w03g17vkvrcgv4kqumch2mx9hwd/Render_Project_Kalashnikov_Patriot_010.png",
+            "https://severcon.ru/upload/iblock/a7b/xv7u4so7wf48bc1epumvlmf6hgxmywi0/Render_Project_Kalashnikov_Patriot_011.png",
+            "https://severcon.ru/upload/iblock/2a7/uwkv35d6u2h6oar9s5eskgzacasmldi6/Pult_.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15575",
+          "article": "KVAC-I-09IN-PT1",
+          "name": "KALASHNIKOV Патриот",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 40600,
+          "photos": [
+            "https://severcon.ru/upload/iblock/b54/1stvam1u5evdnk0bg8zs0455koop2a1n/Render_Project_Kalashnikov_Patriot_002.png",
+            "https://severcon.ru/upload/iblock/474/y38rh4rke924d2shrbaqto1m1wohwlc0/Render_Project_Kalashnikov_Patriot_003.png",
+            "https://severcon.ru/upload/iblock/c5d/8ntidrcb222rbqwqjvo47hiv6i717ivw/Render_Project_Kalashnikov_Patriot_004.png",
+            "https://severcon.ru/upload/iblock/c6f/tyhp0u9dut77lpcoj1wciqy7jsub5q9h/Render_Project_Kalashnikov_Patriot_005.png",
+            "https://severcon.ru/upload/iblock/1fb/5shna77wihh5au889t2zoeuj3niuoghk/Render_Project_Kalashnikov_Patriot_006.png",
+            "https://severcon.ru/upload/iblock/399/0rsj7ip3t6jxeuo45ct0739gjby0erar/Render_Project_Kalashnikov_Patriot_008.png",
+            "https://severcon.ru/upload/iblock/510/jpfm0w03g17vkvrcgv4kqumch2mx9hwd/Render_Project_Kalashnikov_Patriot_010.png",
+            "https://severcon.ru/upload/iblock/a7b/xv7u4so7wf48bc1epumvlmf6hgxmywi0/Render_Project_Kalashnikov_Patriot_011.png",
+            "https://severcon.ru/upload/iblock/2a7/uwkv35d6u2h6oar9s5eskgzacasmldi6/Pult_.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15576",
+          "article": "KVAC-I-12IN-PT1",
+          "name": "KALASHNIKOV Патриот",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 49200,
+          "photos": [
+            "https://severcon.ru/upload/iblock/b54/1stvam1u5evdnk0bg8zs0455koop2a1n/Render_Project_Kalashnikov_Patriot_002.png",
+            "https://severcon.ru/upload/iblock/474/y38rh4rke924d2shrbaqto1m1wohwlc0/Render_Project_Kalashnikov_Patriot_003.png",
+            "https://severcon.ru/upload/iblock/c5d/8ntidrcb222rbqwqjvo47hiv6i717ivw/Render_Project_Kalashnikov_Patriot_004.png",
+            "https://severcon.ru/upload/iblock/c6f/tyhp0u9dut77lpcoj1wciqy7jsub5q9h/Render_Project_Kalashnikov_Patriot_005.png",
+            "https://severcon.ru/upload/iblock/1fb/5shna77wihh5au889t2zoeuj3niuoghk/Render_Project_Kalashnikov_Patriot_006.png",
+            "https://severcon.ru/upload/iblock/399/0rsj7ip3t6jxeuo45ct0739gjby0erar/Render_Project_Kalashnikov_Patriot_008.png",
+            "https://severcon.ru/upload/iblock/510/jpfm0w03g17vkvrcgv4kqumch2mx9hwd/Render_Project_Kalashnikov_Patriot_010.png",
+            "https://severcon.ru/upload/iblock/a7b/xv7u4so7wf48bc1epumvlmf6hgxmywi0/Render_Project_Kalashnikov_Patriot_011.png",
+            "https://severcon.ru/upload/iblock/2a7/uwkv35d6u2h6oar9s5eskgzacasmldi6/Pult_.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15577",
+          "article": "KVAC-I-18IN-PT1",
+          "name": "KALASHNIKOV Патриот",
+          "category": "Настенная сплит-система",
+          "btu": "18000",
+          "area": "до 50 м²",
+          "our_price": 82500,
+          "photos": [
+            "https://severcon.ru/upload/iblock/b54/1stvam1u5evdnk0bg8zs0455koop2a1n/Render_Project_Kalashnikov_Patriot_002.png",
+            "https://severcon.ru/upload/iblock/474/y38rh4rke924d2shrbaqto1m1wohwlc0/Render_Project_Kalashnikov_Patriot_003.png",
+            "https://severcon.ru/upload/iblock/c5d/8ntidrcb222rbqwqjvo47hiv6i717ivw/Render_Project_Kalashnikov_Patriot_004.png",
+            "https://severcon.ru/upload/iblock/c6f/tyhp0u9dut77lpcoj1wciqy7jsub5q9h/Render_Project_Kalashnikov_Patriot_005.png",
+            "https://severcon.ru/upload/iblock/1fb/5shna77wihh5au889t2zoeuj3niuoghk/Render_Project_Kalashnikov_Patriot_006.png",
+            "https://severcon.ru/upload/iblock/399/0rsj7ip3t6jxeuo45ct0739gjby0erar/Render_Project_Kalashnikov_Patriot_008.png",
+            "https://severcon.ru/upload/iblock/510/jpfm0w03g17vkvrcgv4kqumch2mx9hwd/Render_Project_Kalashnikov_Patriot_010.png",
+            "https://severcon.ru/upload/iblock/a7b/xv7u4so7wf48bc1epumvlmf6hgxmywi0/Render_Project_Kalashnikov_Patriot_011.png",
+            "https://severcon.ru/upload/iblock/2a7/uwkv35d6u2h6oar9s5eskgzacasmldi6/Pult_.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15580",
+          "article": "KVAC-I-07IN-PT1",
+          "name": "KALASHNIKOV Патриот",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 29400,
+          "photos": [
+            "https://severcon.ru/upload/iblock/d48/rsb0lrejneg1ustw7j4r6r1ari1smx99/Render_Project_Kalashnikov_Patriot_002.png",
+            "https://severcon.ru/upload/iblock/e23/hftikdpfo2u9s6okjkqpgt15adc3bz6b/Render_Project_Kalashnikov_Patriot_003.png",
+            "https://severcon.ru/upload/iblock/4a1/2wng61ahuyz208i9rpwtx1rlhf8yhl39/Render_Project_Kalashnikov_Patriot_004.png",
+            "https://severcon.ru/upload/iblock/740/nj1xuilwzu3eg2lca4vlq0hay541thjc/Render_Project_Kalashnikov_Patriot_005.png",
+            "https://severcon.ru/upload/iblock/3dc/7ku5w6w6un9g0x4zmwo111limu9md2fj/Render_Project_Kalashnikov_Patriot_006.png",
+            "https://severcon.ru/upload/iblock/80f/rp6nl36nsy0ui9xpz9q7ywjv2bbxuv3r/Render_Project_Kalashnikov_Patriot_008.png",
+            "https://severcon.ru/upload/iblock/862/7r47hdtktb7dlvjqg9u13yv37ioc2q6n/Render_Project_Kalashnikov_Patriot_010.png",
+            "https://severcon.ru/upload/iblock/add/y7dgo3t9opkmwyrjw9uwmhrzcda9fx53/Render_Project_Kalashnikov_Patriot_011.png",
+            "https://severcon.ru/upload/iblock/e96/fsmlk2rai4gij3wcui5sie38tzxx6c2o/Render_Project_Kalashnikov_Patriot_PDU_001.png",
+            "https://severcon.ru/upload/iblock/069/h6c2exsr6ibekni9wcwiykm4nsv8cevj/Render_Project_Kalashnikov_Patriot_PDU_002.png",
+            "https://severcon.ru/upload/iblock/2f8/mx5433jot4if5rhh4mbewvu07jj63foe/Render_Project_Kalashnikov_Patriot_PDU_003.png",
+            "https://severcon.ru/upload/iblock/e54/hl9sq85m7tz8i2y2s1r932ue3e84tyfw/Render_Project_Kalashnikov_Patriot_PDU_004.png",
+            "https://severcon.ru/upload/iblock/03b/rs9xcvquz0lsv6x95proig5mhllk9ohl/2.png | https://severcon.ru/upload/iblock/3d5/u9vi1261mgl6aqm75g01cs1zrkfj3ohu/11.jpg",
+            "https://severcon.ru/upload/iblock/3ba/qdobhhcakmgoj87q0k6yrv5gcjeqpbyh/4.png | https://severcon.ru/upload/iblock/893/dlgvnrnokmo6cf65bb0i8frf2g3fm1ku/10.jpg"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15581",
+          "article": "KVAC-I-09IN-PT1",
+          "name": "KALASHNIKOV Патриот",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 31900,
+          "photos": [
+            "https://severcon.ru/upload/iblock/d48/rsb0lrejneg1ustw7j4r6r1ari1smx99/Render_Project_Kalashnikov_Patriot_002.png",
+            "https://severcon.ru/upload/iblock/e23/hftikdpfo2u9s6okjkqpgt15adc3bz6b/Render_Project_Kalashnikov_Patriot_003.png",
+            "https://severcon.ru/upload/iblock/4a1/2wng61ahuyz208i9rpwtx1rlhf8yhl39/Render_Project_Kalashnikov_Patriot_004.png",
+            "https://severcon.ru/upload/iblock/740/nj1xuilwzu3eg2lca4vlq0hay541thjc/Render_Project_Kalashnikov_Patriot_005.png",
+            "https://severcon.ru/upload/iblock/3dc/7ku5w6w6un9g0x4zmwo111limu9md2fj/Render_Project_Kalashnikov_Patriot_006.png",
+            "https://severcon.ru/upload/iblock/80f/rp6nl36nsy0ui9xpz9q7ywjv2bbxuv3r/Render_Project_Kalashnikov_Patriot_008.png",
+            "https://severcon.ru/upload/iblock/862/7r47hdtktb7dlvjqg9u13yv37ioc2q6n/Render_Project_Kalashnikov_Patriot_010.png",
+            "https://severcon.ru/upload/iblock/add/y7dgo3t9opkmwyrjw9uwmhrzcda9fx53/Render_Project_Kalashnikov_Patriot_011.png",
+            "https://severcon.ru/upload/iblock/e96/fsmlk2rai4gij3wcui5sie38tzxx6c2o/Render_Project_Kalashnikov_Patriot_PDU_001.png",
+            "https://severcon.ru/upload/iblock/069/h6c2exsr6ibekni9wcwiykm4nsv8cevj/Render_Project_Kalashnikov_Patriot_PDU_002.png",
+            "https://severcon.ru/upload/iblock/2f8/mx5433jot4if5rhh4mbewvu07jj63foe/Render_Project_Kalashnikov_Patriot_PDU_003.png",
+            "https://severcon.ru/upload/iblock/e54/hl9sq85m7tz8i2y2s1r932ue3e84tyfw/Render_Project_Kalashnikov_Patriot_PDU_004.png",
+            "https://severcon.ru/upload/iblock/03b/rs9xcvquz0lsv6x95proig5mhllk9ohl/2.png | https://severcon.ru/upload/iblock/3d5/u9vi1261mgl6aqm75g01cs1zrkfj3ohu/11.jpg",
+            "https://severcon.ru/upload/iblock/3ba/qdobhhcakmgoj87q0k6yrv5gcjeqpbyh/4.png | https://severcon.ru/upload/iblock/893/dlgvnrnokmo6cf65bb0i8frf2g3fm1ku/10.jpg"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15582",
+          "article": "KVAC-I-12IN-PT1",
+          "name": "KALASHNIKOV Патриот",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 43700,
+          "photos": [
+            "https://severcon.ru/upload/iblock/d48/rsb0lrejneg1ustw7j4r6r1ari1smx99/Render_Project_Kalashnikov_Patriot_002.png",
+            "https://severcon.ru/upload/iblock/e23/hftikdpfo2u9s6okjkqpgt15adc3bz6b/Render_Project_Kalashnikov_Patriot_003.png",
+            "https://severcon.ru/upload/iblock/4a1/2wng61ahuyz208i9rpwtx1rlhf8yhl39/Render_Project_Kalashnikov_Patriot_004.png",
+            "https://severcon.ru/upload/iblock/740/nj1xuilwzu3eg2lca4vlq0hay541thjc/Render_Project_Kalashnikov_Patriot_005.png",
+            "https://severcon.ru/upload/iblock/3dc/7ku5w6w6un9g0x4zmwo111limu9md2fj/Render_Project_Kalashnikov_Patriot_006.png",
+            "https://severcon.ru/upload/iblock/80f/rp6nl36nsy0ui9xpz9q7ywjv2bbxuv3r/Render_Project_Kalashnikov_Patriot_008.png",
+            "https://severcon.ru/upload/iblock/862/7r47hdtktb7dlvjqg9u13yv37ioc2q6n/Render_Project_Kalashnikov_Patriot_010.png",
+            "https://severcon.ru/upload/iblock/add/y7dgo3t9opkmwyrjw9uwmhrzcda9fx53/Render_Project_Kalashnikov_Patriot_011.png",
+            "https://severcon.ru/upload/iblock/e96/fsmlk2rai4gij3wcui5sie38tzxx6c2o/Render_Project_Kalashnikov_Patriot_PDU_001.png",
+            "https://severcon.ru/upload/iblock/069/h6c2exsr6ibekni9wcwiykm4nsv8cevj/Render_Project_Kalashnikov_Patriot_PDU_002.png",
+            "https://severcon.ru/upload/iblock/2f8/mx5433jot4if5rhh4mbewvu07jj63foe/Render_Project_Kalashnikov_Patriot_PDU_003.png",
+            "https://severcon.ru/upload/iblock/e54/hl9sq85m7tz8i2y2s1r932ue3e84tyfw/Render_Project_Kalashnikov_Patriot_PDU_004.png",
+            "https://severcon.ru/upload/iblock/03b/rs9xcvquz0lsv6x95proig5mhllk9ohl/2.png | https://severcon.ru/upload/iblock/3d5/u9vi1261mgl6aqm75g01cs1zrkfj3ohu/11.jpg",
+            "https://severcon.ru/upload/iblock/3ba/qdobhhcakmgoj87q0k6yrv5gcjeqpbyh/4.png | https://severcon.ru/upload/iblock/893/dlgvnrnokmo6cf65bb0i8frf2g3fm1ku/10.jpg"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "15582",
+          "article": "KVAC-I-18IN-PT1",
+          "name": "KALASHNIKOV Патриот",
+          "category": "Настенная сплит-система",
+          "btu": "18000",
+          "area": "до 50 м²",
+          "our_price": 73200,
+          "photos": [
+            "https://severcon.ru/upload/iblock/d48/rsb0lrejneg1ustw7j4r6r1ari1smx99/Render_Project_Kalashnikov_Patriot_002.png",
+            "https://severcon.ru/upload/iblock/e23/hftikdpfo2u9s6okjkqpgt15adc3bz6b/Render_Project_Kalashnikov_Patriot_003.png",
+            "https://severcon.ru/upload/iblock/4a1/2wng61ahuyz208i9rpwtx1rlhf8yhl39/Render_Project_Kalashnikov_Patriot_004.png",
+            "https://severcon.ru/upload/iblock/740/nj1xuilwzu3eg2lca4vlq0hay541thjc/Render_Project_Kalashnikov_Patriot_005.png",
+            "https://severcon.ru/upload/iblock/3dc/7ku5w6w6un9g0x4zmwo111limu9md2fj/Render_Project_Kalashnikov_Patriot_006.png",
+            "https://severcon.ru/upload/iblock/80f/rp6nl36nsy0ui9xpz9q7ywjv2bbxuv3r/Render_Project_Kalashnikov_Patriot_008.png",
+            "https://severcon.ru/upload/iblock/862/7r47hdtktb7dlvjqg9u13yv37ioc2q6n/Render_Project_Kalashnikov_Patriot_010.png",
+            "https://severcon.ru/upload/iblock/add/y7dgo3t9opkmwyrjw9uwmhrzcda9fx53/Render_Project_Kalashnikov_Patriot_011.png",
+            "https://severcon.ru/upload/iblock/e96/fsmlk2rai4gij3wcui5sie38tzxx6c2o/Render_Project_Kalashnikov_Patriot_PDU_001.png",
+            "https://severcon.ru/upload/iblock/069/h6c2exsr6ibekni9wcwiykm4nsv8cevj/Render_Project_Kalashnikov_Patriot_PDU_002.png",
+            "https://severcon.ru/upload/iblock/2f8/mx5433jot4if5rhh4mbewvu07jj63foe/Render_Project_Kalashnikov_Patriot_PDU_003.png",
+            "https://severcon.ru/upload/iblock/e54/hl9sq85m7tz8i2y2s1r932ue3e84tyfw/Render_Project_Kalashnikov_Patriot_PDU_004.png",
+            "https://severcon.ru/upload/iblock/03b/rs9xcvquz0lsv6x95proig5mhllk9ohl/2.png | https://severcon.ru/upload/iblock/3d5/u9vi1261mgl6aqm75g01cs1zrkfj3ohu/11.jpg",
+            "https://severcon.ru/upload/iblock/3ba/qdobhhcakmgoj87q0k6yrv5gcjeqpbyh/4.png | https://severcon.ru/upload/iblock/893/dlgvnrnokmo6cf65bb0i8frf2g3fm1ku/10.jpg"
+          ],
+          "features": [
+            "Классический компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "12741",
+          "article": "KVAC-I-09IN-G1",
+          "name": "KALASHNIKOV Галс",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 48500,
+          "photos": [
+            "https://severcon.ru/upload/iblock/0fc/4gkz3grzqzo6cuigrljmdnz7b7c1ca04/Render_Project_Kalashnikov_Gals_003.png",
+            "https://severcon.ru/upload/iblock/18c/p0kckslabekwm66q9mzl0coiopc7a21d/Render_Project_Kalashnikov_Gals_005.png",
+            "https://severcon.ru/upload/iblock/a3d/1q3g2d3s4gapbjxi80dzbu0xoil1u1o1/Render_Project_Kalashnikov_Gals_002.png",
+            "https://severcon.ru/upload/iblock/71a/carpaets5ky2t5jyqk3u6kyv5338f0mb/Render_Project_Kalashnikov_Gals_004.png",
+            "https://severcon.ru/upload/iblock/2a7/42wf0ukvp1gwnp70o2av6juhs330wkna/Render_Project_Kalashnikov_Gals_006.png",
+            "https://severcon.ru/upload/iblock/a60/k93b9ue7zjtfv1lj1oiogsksfpf5169k/Render_Project_Kalashnikov_Gals_007.png",
+            "https://severcon.ru/upload/iblock/bca/b58vdc44thiavshpwqsldl88eg481e1r/Render_Project_Kalashnikov_Gals_010.png",
+            "https://severcon.ru/upload/iblock/863/z449o0n3pmu0wr5k9w3n4dx6447uvzpk/Render_Project_PDU_Kalashnikov_002.png",
+            "https://severcon.ru/upload/iblock/140/ou2y72ywwekh3l36nvte1lucdsmg4ceg/Render_Project_Kalashnikov_Gals_Back_002.png",
+            "https://severcon.ru/upload/iblock/6d4/n39geosfbn0urptd6q7bneu3uqm63n8n/Render_Project_PL_002.png",
+            "https://severcon.ru/upload/iblock/3b7/2s814vej8qddhmt0tbgbfol9ncvq7biy/Render_Project_Kalashnikov_Gals_002-_-OUT.png",
+            "https://severcon.ru/upload/iblock/6a6/enspe1s5ds1pkdv0wch30z3ko236awib/Render_Project_Kalashnikov_Gals_003.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "12742",
+          "article": "KVAC-I-12IN-G1",
+          "name": "KALASHNIKOV Галс",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 56900,
+          "photos": [
+            "https://severcon.ru/upload/iblock/0fc/4gkz3grzqzo6cuigrljmdnz7b7c1ca04/Render_Project_Kalashnikov_Gals_003.png",
+            "https://severcon.ru/upload/iblock/18c/p0kckslabekwm66q9mzl0coiopc7a21d/Render_Project_Kalashnikov_Gals_005.png",
+            "https://severcon.ru/upload/iblock/a3d/1q3g2d3s4gapbjxi80dzbu0xoil1u1o1/Render_Project_Kalashnikov_Gals_002.png",
+            "https://severcon.ru/upload/iblock/71a/carpaets5ky2t5jyqk3u6kyv5338f0mb/Render_Project_Kalashnikov_Gals_004.png",
+            "https://severcon.ru/upload/iblock/2a7/42wf0ukvp1gwnp70o2av6juhs330wkna/Render_Project_Kalashnikov_Gals_006.png",
+            "https://severcon.ru/upload/iblock/a60/k93b9ue7zjtfv1lj1oiogsksfpf5169k/Render_Project_Kalashnikov_Gals_007.png",
+            "https://severcon.ru/upload/iblock/bca/b58vdc44thiavshpwqsldl88eg481e1r/Render_Project_Kalashnikov_Gals_010.png",
+            "https://severcon.ru/upload/iblock/863/z449o0n3pmu0wr5k9w3n4dx6447uvzpk/Render_Project_PDU_Kalashnikov_002.png",
+            "https://severcon.ru/upload/iblock/140/ou2y72ywwekh3l36nvte1lucdsmg4ceg/Render_Project_Kalashnikov_Gals_Back_002.png",
+            "https://severcon.ru/upload/iblock/6d4/n39geosfbn0urptd6q7bneu3uqm63n8n/Render_Project_PL_002.png",
+            "https://severcon.ru/upload/iblock/3b7/2s814vej8qddhmt0tbgbfol9ncvq7biy/Render_Project_Kalashnikov_Gals_002-_-OUT.png",
+            "https://severcon.ru/upload/iblock/6a6/enspe1s5ds1pkdv0wch30z3ko236awib/Render_Project_Kalashnikov_Gals_003.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "12743",
+          "article": "KVAC-I-18IN-G1",
+          "name": "KALASHNIKOV Галс",
+          "category": "Настенная сплит-система",
+          "btu": "18000",
+          "area": "до 50 м²",
+          "our_price": 90700,
+          "photos": [
+            "https://severcon.ru/upload/iblock/0fc/4gkz3grzqzo6cuigrljmdnz7b7c1ca04/Render_Project_Kalashnikov_Gals_003.png",
+            "https://severcon.ru/upload/iblock/18c/p0kckslabekwm66q9mzl0coiopc7a21d/Render_Project_Kalashnikov_Gals_005.png",
+            "https://severcon.ru/upload/iblock/a3d/1q3g2d3s4gapbjxi80dzbu0xoil1u1o1/Render_Project_Kalashnikov_Gals_002.png",
+            "https://severcon.ru/upload/iblock/71a/carpaets5ky2t5jyqk3u6kyv5338f0mb/Render_Project_Kalashnikov_Gals_004.png",
+            "https://severcon.ru/upload/iblock/2a7/42wf0ukvp1gwnp70o2av6juhs330wkna/Render_Project_Kalashnikov_Gals_006.png",
+            "https://severcon.ru/upload/iblock/a60/k93b9ue7zjtfv1lj1oiogsksfpf5169k/Render_Project_Kalashnikov_Gals_007.png",
+            "https://severcon.ru/upload/iblock/bca/b58vdc44thiavshpwqsldl88eg481e1r/Render_Project_Kalashnikov_Gals_010.png",
+            "https://severcon.ru/upload/iblock/863/z449o0n3pmu0wr5k9w3n4dx6447uvzpk/Render_Project_PDU_Kalashnikov_002.png",
+            "https://severcon.ru/upload/iblock/140/ou2y72ywwekh3l36nvte1lucdsmg4ceg/Render_Project_Kalashnikov_Gals_Back_002.png",
+            "https://severcon.ru/upload/iblock/6d4/n39geosfbn0urptd6q7bneu3uqm63n8n/Render_Project_PL_002.png",
+            "https://severcon.ru/upload/iblock/3b7/2s814vej8qddhmt0tbgbfol9ncvq7biy/Render_Project_Kalashnikov_Gals_002-_-OUT.png",
+            "https://severcon.ru/upload/iblock/6a6/enspe1s5ds1pkdv0wch30z3ko236awib/Render_Project_Kalashnikov_Gals_003.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11905",
+          "article": "KVAC-I-07IN-FP1",
+          "name": "KALASHNIKOV Форпост",
+          "category": "Настенная сплит-система",
+          "btu": "7000",
+          "area": "до 20 м²",
+          "our_price": 44200,
+          "photos": [
+            "https://severcon.ru/upload/iblock/cc3/1npkb2w3mdz2eoa13b9fd5379pxxkqup/Render_Project_Kalashnikov_Forpost_DC_Inv_001.png",
+            "https://severcon.ru/upload/iblock/094/99m1ga873t3zuk42nhawjigk6b34h0if/Render_Project_Kalashnikov_Forpost_DC_Inv_002.png",
+            "https://severcon.ru/upload/iblock/109/1gcxs83mpad6iyz4o0f2szynmh48p0q3/Render_Project_Kalashnikov_Forpost_DC_Inv_003.png",
+            "https://severcon.ru/upload/iblock/f5c/9d033wsdko6sw4su4s67086kxx0fah0l/Render_Project_Kalashnikov_Forpost_DC_Inv_004.png",
+            "https://severcon.ru/upload/iblock/6f1/ztxqwjk6gd6ofvmgjvochd7ksrtaa3hu/Render_Project_Kalashnikov_Forpost_DC_Inv_005.png",
+            "https://severcon.ru/upload/iblock/a3b/f77eqz0yomcdbttkmun4gzfh0unrw071/Render_Project_Kalashnikov_Forpost_DC_Inv_006.png",
+            "https://severcon.ru/upload/iblock/deb/kwwu3szl0dpcvsquaglk0degugoryr5n/Render_Project_Kalashnikov_Forpost_DC_Inv_007.png",
+            "https://severcon.ru/upload/iblock/6e6/134d98t0uzs19q9rrn64sdtsjqi1xlrb/Render_Project_Kalashnikov_Forpost_DC_Inv_008.png",
+            "https://severcon.ru/upload/iblock/431/rmp8k3uvwz21qg4j8kryxscesaq4s9dh/Render_Project_Kalashnikov_Forpost_DC_Inv_009.png",
+            "https://severcon.ru/upload/iblock/574/5hv26jzvn5kv5txdkc61b3p7lp2px5gv/Render_Project_Kalashnikov_Gals_002.png",
+            "https://severcon.ru/upload/iblock/9f0/0t9eeu5lf4rg2rattb9c972n3ywdvmnt/Render_Project_PDU_Kalashnikov_White_002.png",
+            "https://severcon.ru/upload/iblock/5bf/x6pp2rb0jaiwgzl2v1kgzmrmpuzwe7a2/Render_Project_PDU_Kalashnikov_White_003.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11906",
+          "article": "KVAC-I-09IN-FP1",
+          "name": "KALASHNIKOV Форпост",
+          "category": "Настенная сплит-система",
+          "btu": "9000",
+          "area": "до 27 м²",
+          "our_price": 50200,
+          "photos": [
+            "https://severcon.ru/upload/iblock/cc3/1npkb2w3mdz2eoa13b9fd5379pxxkqup/Render_Project_Kalashnikov_Forpost_DC_Inv_001.png",
+            "https://severcon.ru/upload/iblock/094/99m1ga873t3zuk42nhawjigk6b34h0if/Render_Project_Kalashnikov_Forpost_DC_Inv_002.png",
+            "https://severcon.ru/upload/iblock/109/1gcxs83mpad6iyz4o0f2szynmh48p0q3/Render_Project_Kalashnikov_Forpost_DC_Inv_003.png",
+            "https://severcon.ru/upload/iblock/f5c/9d033wsdko6sw4su4s67086kxx0fah0l/Render_Project_Kalashnikov_Forpost_DC_Inv_004.png",
+            "https://severcon.ru/upload/iblock/6f1/ztxqwjk6gd6ofvmgjvochd7ksrtaa3hu/Render_Project_Kalashnikov_Forpost_DC_Inv_005.png",
+            "https://severcon.ru/upload/iblock/a3b/f77eqz0yomcdbttkmun4gzfh0unrw071/Render_Project_Kalashnikov_Forpost_DC_Inv_006.png",
+            "https://severcon.ru/upload/iblock/deb/kwwu3szl0dpcvsquaglk0degugoryr5n/Render_Project_Kalashnikov_Forpost_DC_Inv_007.png",
+            "https://severcon.ru/upload/iblock/6e6/134d98t0uzs19q9rrn64sdtsjqi1xlrb/Render_Project_Kalashnikov_Forpost_DC_Inv_008.png",
+            "https://severcon.ru/upload/iblock/431/rmp8k3uvwz21qg4j8kryxscesaq4s9dh/Render_Project_Kalashnikov_Forpost_DC_Inv_009.png",
+            "https://severcon.ru/upload/iblock/574/5hv26jzvn5kv5txdkc61b3p7lp2px5gv/Render_Project_Kalashnikov_Gals_002.png",
+            "https://severcon.ru/upload/iblock/9f0/0t9eeu5lf4rg2rattb9c972n3ywdvmnt/Render_Project_PDU_Kalashnikov_White_002.png",
+            "https://severcon.ru/upload/iblock/5bf/x6pp2rb0jaiwgzl2v1kgzmrmpuzwe7a2/Render_Project_PDU_Kalashnikov_White_003.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11907",
+          "article": "KVAC-I-12IN-FP1",
+          "name": "KALASHNIKOV Форпост",
+          "category": "Настенная сплит-система",
+          "btu": "12000",
+          "area": "до 35 м²",
+          "our_price": 56900,
+          "photos": [
+            "https://severcon.ru/upload/iblock/cc3/1npkb2w3mdz2eoa13b9fd5379pxxkqup/Render_Project_Kalashnikov_Forpost_DC_Inv_001.png",
+            "https://severcon.ru/upload/iblock/094/99m1ga873t3zuk42nhawjigk6b34h0if/Render_Project_Kalashnikov_Forpost_DC_Inv_002.png",
+            "https://severcon.ru/upload/iblock/109/1gcxs83mpad6iyz4o0f2szynmh48p0q3/Render_Project_Kalashnikov_Forpost_DC_Inv_003.png",
+            "https://severcon.ru/upload/iblock/f5c/9d033wsdko6sw4su4s67086kxx0fah0l/Render_Project_Kalashnikov_Forpost_DC_Inv_004.png",
+            "https://severcon.ru/upload/iblock/6f1/ztxqwjk6gd6ofvmgjvochd7ksrtaa3hu/Render_Project_Kalashnikov_Forpost_DC_Inv_005.png",
+            "https://severcon.ru/upload/iblock/a3b/f77eqz0yomcdbttkmun4gzfh0unrw071/Render_Project_Kalashnikov_Forpost_DC_Inv_006.png",
+            "https://severcon.ru/upload/iblock/deb/kwwu3szl0dpcvsquaglk0degugoryr5n/Render_Project_Kalashnikov_Forpost_DC_Inv_007.png",
+            "https://severcon.ru/upload/iblock/6e6/134d98t0uzs19q9rrn64sdtsjqi1xlrb/Render_Project_Kalashnikov_Forpost_DC_Inv_008.png",
+            "https://severcon.ru/upload/iblock/431/rmp8k3uvwz21qg4j8kryxscesaq4s9dh/Render_Project_Kalashnikov_Forpost_DC_Inv_009.png",
+            "https://severcon.ru/upload/iblock/574/5hv26jzvn5kv5txdkc61b3p7lp2px5gv/Render_Project_Kalashnikov_Gals_002.png",
+            "https://severcon.ru/upload/iblock/9f0/0t9eeu5lf4rg2rattb9c972n3ywdvmnt/Render_Project_PDU_Kalashnikov_White_002.png",
+            "https://severcon.ru/upload/iblock/5bf/x6pp2rb0jaiwgzl2v1kgzmrmpuzwe7a2/Render_Project_PDU_Kalashnikov_White_003.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        },
+        {
+          "id": "11908",
+          "article": "KVAC-I-18IN-FP1",
+          "name": "KALASHNIKOV Форпост",
+          "category": "Настенная сплит-система",
+          "btu": "18000",
+          "area": "до 50 м²",
+          "our_price": 85300,
+          "photos": [
+            "https://severcon.ru/upload/iblock/cc3/1npkb2w3mdz2eoa13b9fd5379pxxkqup/Render_Project_Kalashnikov_Forpost_DC_Inv_001.png",
+            "https://severcon.ru/upload/iblock/094/99m1ga873t3zuk42nhawjigk6b34h0if/Render_Project_Kalashnikov_Forpost_DC_Inv_002.png",
+            "https://severcon.ru/upload/iblock/109/1gcxs83mpad6iyz4o0f2szynmh48p0q3/Render_Project_Kalashnikov_Forpost_DC_Inv_003.png",
+            "https://severcon.ru/upload/iblock/f5c/9d033wsdko6sw4su4s67086kxx0fah0l/Render_Project_Kalashnikov_Forpost_DC_Inv_004.png",
+            "https://severcon.ru/upload/iblock/6f1/ztxqwjk6gd6ofvmgjvochd7ksrtaa3hu/Render_Project_Kalashnikov_Forpost_DC_Inv_005.png",
+            "https://severcon.ru/upload/iblock/a3b/f77eqz0yomcdbttkmun4gzfh0unrw071/Render_Project_Kalashnikov_Forpost_DC_Inv_006.png",
+            "https://severcon.ru/upload/iblock/deb/kwwu3szl0dpcvsquaglk0degugoryr5n/Render_Project_Kalashnikov_Forpost_DC_Inv_007.png",
+            "https://severcon.ru/upload/iblock/6e6/134d98t0uzs19q9rrn64sdtsjqi1xlrb/Render_Project_Kalashnikov_Forpost_DC_Inv_008.png",
+            "https://severcon.ru/upload/iblock/431/rmp8k3uvwz21qg4j8kryxscesaq4s9dh/Render_Project_Kalashnikov_Forpost_DC_Inv_009.png",
+            "https://severcon.ru/upload/iblock/574/5hv26jzvn5kv5txdkc61b3p7lp2px5gv/Render_Project_Kalashnikov_Gals_002.png",
+            "https://severcon.ru/upload/iblock/9f0/0t9eeu5lf4rg2rattb9c972n3ywdvmnt/Render_Project_PDU_Kalashnikov_White_002.png",
+            "https://severcon.ru/upload/iblock/5bf/x6pp2rb0jaiwgzl2v1kgzmrmpuzwe7a2/Render_Project_PDU_Kalashnikov_White_003.png"
+          ],
+          "features": [
+            "Инверторный компрессор",
+            "Wi-Fi управление",
+            "Ночной режим"
+          ],
+          "in_stock": true
+        }
+      ]
+    },
+
+
+
+    {
+      "id": "ecoclima",
+      "name": "Ecoclima",
+      "models": []
+    },
+    {
+      "id": "marsa",
+      "name": "Marsa",
+      "models": []
+    }
+  ]
+}
