@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://druzkovdaniil-sketch.github.io/DruzhbaCondicionere-PublicSite/
